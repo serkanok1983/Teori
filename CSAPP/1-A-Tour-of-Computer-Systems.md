@@ -1,25 +1,5 @@
 # Bilgisayar Sistemlerine Bir Bakış
 
-## 1.1 Bilgi Bitler + Bağlamdır
-
-## 1.2 Programlar Başka Programlar Tarafından Farklı Biçimlere Çevrilir
-
-## 1.3 Derleme Sistemlerinin Nasıl Çalıştığını Anlamak Faydalı Olur
-
-## 1.4 İşlemciler Bellekte Saklanan Talimatları Okur ve Yorumlar
-
-## 1.5 Önbellekler Önemlidir
-
-## 1.6 Depolama Cihazları Bir Hiyerarşi Oluşturur
-
-## 1.7 İşletim Sistemi Donanımı Yönetir
-
-## 1.8 Sistemler Ağlar Aracılığıyla Diğer Sistemlerle İletişim Kurar
-
-## 1.9 Önemli Konular
-
-## 1.10 Özet
-
 Bir *bilgisayar sistemi* uygulama programlarını işletmek için birlikte çalışan donanım ve sistem yazılımından oluşur. Sistemlerin belirli uygulamaları (implementasyonları) zaman içinde değişir, ancak bunların altında yatan kavramlar değişmez. Bütün bilgisayar sistemleri benzer işlevleri yürüten benzer donanım ve yazılım bileşenlerine sahiptir. Bu kitap bu bileşenlerin nasıl çalıştıkları ve programların doğruluk ve performansını nasıl etkilediklerini anlayarak üretimlerinde daha iyi olmak isteyen programcılar için yazılmıştır.
 
 Heyecan verici bir yolculuğun henüz başındasınız. Bu kitapta anlatılan kavramları doğru öğrenirseniz, altta yatan bilgisayar sistemini ve uygulama programlarınıza etkisini anlayarak aydınlamış, o nadir bulunan "güçlü programcı" olma yolunda ilerleyebilirsiniz.
@@ -39,9 +19,10 @@ int main()
    return 0;
 }
 ```
+
 *Şekil 1.1* hello programı.
 
-![](assets/image.png)
+![hello.c'nin ASCII metin temsili](assets/image.png)
 *Şekil 1.2* hello.c'nin ASCII metin temsili.
 
 ## 1.1 Bilgi Bitler + Bağlamdır
@@ -50,3 +31,20 @@ Programımız *hello* hayata programcının bir editörde yazıp *hello.c* ismin
 
 Çoğu bilgisayar sistemi metin karakterlerini her bir karakteri benzersiz bir bayt-boyutunda tamsayı değeri ile temsil eden ASCII standardını kullanır. Şekil 1.2'de *hello.c* programının ASCII temsili gösterilmektedir.
 
+## 1.2 Programlar Başka Programlar Tarafından Farklı Biçimlere Çevrilir
+
+## 1.3 Derleme Sistemlerinin Nasıl Çalıştığını Anlamak Faydalı Olur
+
+## 1.4 İşlemciler Bellekte Saklanan Talimatları Okur ve Yorumlar
+
+## 1.5 Önbellekler Önemlidir
+
+## 1.6 Depolama Cihazları Bir Hiyerarşi Oluşturur
+
+## 1.7 İşletim Sistemi Donanımı Yönetir
+
+## 1.8 Sistemler Ağlar Aracılığıyla Diğer Sistemlerle İletişim Kurar
+
+## 1.9 Önemli Konular
+
+## 1.10 Özet
