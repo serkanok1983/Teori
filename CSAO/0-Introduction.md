@@ -1,3 +1,4 @@
 # Giriş
 
-Bilgisayar tasarımı, bilgisayar programlama, bilgi işleme, problemlere algoritmik çözümler üretmek ve algoritmik sürecin kendisi gibi konular için bilimsel bir temel inşa etmeyi amaçlayan disipline bilgisayar bilimi denir.
+Bilgisayar bilimleri; bilgisayar tasarımı, bilgisayar programlama, bilgi işleme, problemlerin algoritmik çözümleri ve bizzat algoritmik süreç gibi konular için bilimsel bir temel oluşturmayı amaçlayan disiplindir. Bu alan, günümüz bilgisayar uygulamalarının dayanaklarını ve yarının bilişim altyapısının temellerini sağlar.
+
