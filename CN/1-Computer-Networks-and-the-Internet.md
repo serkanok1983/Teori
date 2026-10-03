@@ -10,3 +10,7 @@ Bir bilgisayar ağının uç ve çekirdek kısımlarına dair bu genel bakışı
 
 ## 1.1 İnternet nedir?
 
+Bu kitapta, bilgisayar ağlarını ve bunların protokollerini ele alırken temel araç olarak, belirli bir bilgisayar ağı olan genel İnternet'i kullanacağız. Peki, İnternet nedir? Bu soruyu yanıtlamanın birkaç yolu vardır. Yollardan biri, İnternet'in temel yapı taşlarını —yani onu oluşturan donanım ve yazılım bileşenlerini— tarif etmektir. Diğer bir yol ise İnternet'i, dağıtık uygulamalara hizmet sunan bir ağ altyapısı olarak tanımlamaktır. Açıklamalarımızı görselleştirmek için Şekil 1.1'den yararlanarak, işe temel yapı taşlarına dayalı bu tanımla başlayalım.
+
+### 1.1.1 Temel İşleyişi Ele Alan Bir Tarif
+
