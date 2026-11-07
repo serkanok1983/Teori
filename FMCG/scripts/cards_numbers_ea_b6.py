@@ -1,0 +1,36 @@
+#!/usr/bin/env python3
+"""EA kartları, 4. parti: örneklerdeki tüm rakamlar. Temsili veriler. Çalıştır: python3 scripts/cards_numbers_ea_b6.py"""
+from decimal import Decimal as D, ROUND_HALF_UP
+import sqlite3
+q=lambda x,p="0.01": D(x).quantize(D(p),ROUND_HALF_UP)
+def tl(x,p="0.01"):
+    n=len(p.split('.')[1]) if '.' in p else 0
+    return f"{q(x,p):,.{n}f}".replace(",","X").replace(".",",").replace("X",".")
+pct=lambda x,p="0.1": "%"+tl(D(x)*100,p)
+print("== kb-ea-26-1 mükemmel mağaza")
+w=[(D("0.40"),90),(D("0.25"),80),(D("0.20"),100),(D("0.15"),60)]; print("puan",tl(sum(a*b for a,b in w),"0.1")); print("ziyaret uyumu",pct(D(19)/22))
+print("== kb-ea-26-2 veri hacmi")
+v=40*20*22; print("ziyaret/ay",v,"fotoğraf",v*3,"yarıçap dışı oran",pct(D(1320)/v))
+print("== kb-ea-26-3 çakışma")
+print("çakışma oranı",pct(D(45)/10000,"0.01"),"kuyrukta sipariş",180)
+print("== kb-ea-26-5 gün sonu")
+load,sold,ret=300,240,55; exp=load-sold; print("beklenen kalan",exp,"sayılan",55,"eksik",exp-55,"değer",tl((exp-55)*250)); print("nakit farkı",tl(38000-37600))
+print("== kb-ea-26-6 ikincil satış")
+print("stok birikimi",120000-108000,pct(D(12000)/120000)); print("red",tl(450000-405000),pct(D(45000)/450000))
+print("== kb-ea-27-1 fiyat şelalesi")
+lp=D(300); inv=lp*D("0.90"); inv2=inv*D("0.97"); reb=inv2*D("0.02"); pocket=inv2-reb-D(6)
+print("fatura öncesi",tl(inv),"kademe sonrası",tl(inv2),"yıl sonu prim",tl(reb),"cep fiyatı",tl(pocket),"liste oranı",pct(pocket/lp))
+print("== kb-ea-27-2 tahakkuk")
+print("tahakkuk",tl(2000*15),"talep",tl(1700*15),"çözülen",tl(300*15))
+print("== kb-ea-28-1 ATP")
+print("A ATP",800-450,"B'den",500-350)
+print("== kb-ea-28-2 portal")
+print("portal sipariş",int(2000*D("0.30")),"aylık tasarruf",tl(600*25))
+print("== kb-ea-28-3 Z raporu")
+print("fark",tl(D("48400")-D("48250")))
+print("== kb-ea-28-4 sanal POS")
+print("komisyon",tl(D(1000000)*D("0.025")))
+print("== kb-ea-29-2 FVA")
+print("istatistik FVA",30-22,"puan; uzlaşı FVA",22-25,"puan")
+print("== kb-ea-29-3 DRP")
+oh,d,ss,lot=900,400,300,400; w1=oh-d; w2=w1-d; print("1. hafta sonu",w1,"2. hafta sonu (teslimatsız)",w2,"teslimatla",w2+lot)

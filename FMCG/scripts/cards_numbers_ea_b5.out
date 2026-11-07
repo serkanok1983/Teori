@@ -1,0 +1,33 @@
+== kb-ea-21-3 kısa liste
+uzun liste 7 -> demo 3 -> referans ziyareti 2 ; kullanıcı 120, e-belge senaryosu test 6
+== kb-ea-22-1 çift kayıt
+120 borç 12.000,00 600 alacak 10.000,00 391 alacak 2.000,00 denge 0,00
+== kb-ea-22-2 kur farkı / düzeltme
+fatura 350.000,00 ödeme 362.000,00 kur farkı 12.000,00
+düzeltilmiş 1.400.000,00 fark 400.000,00
+== kb-ea-22-3 eliminasyon
+ciro elim 500.000,00 gerçekleşmemiş kâr 50.000,00
+== kb-ea-23-1 bütçe payı
+pay 1.500.000,00 %13,0
+== kb-ea-23-2 sürücü bazlı
+ciro 30.000.000,00
+3 ay bileşik fiyat artışı %9,3
+yeni fiyat 273,18 yeni ciro 32.781.810,00
+== kb-ea-23-3 OKR
+ortalama 0,70
+== kb-ea-24-1 13 hafta
+kapanış 1.400.000,00 asgari açığı 100.000,00
+== kb-ea-24-2 eşleşme
+otomatik %87,0 elle 130
+== kb-ea-24-3 limit
+risk 530.000,00 aşım 30.000,00 kullanılabilir 20.000,00
+== kb-ea-25-1 aktif
+aktif oran %75,0 pasif 600
+== kb-ea-25-2 CLV
+r 0.80 CLV 1.600,00
+r 0.85 CLV 1.888,89
+artış %18,1
+== kb-ea-25-4 İYS
+gönderilebilir oran %64,0 çıkarılan 18000
+== kb-ea-25-5 talep
+SLA içi %90,0 ilk temasta çözüm %55,0

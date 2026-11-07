@@ -1,0 +1,572 @@
+# ID|fit|roles|level|category|slug(s)|notes   fit: d=direct a=adapt s=split m:<ID>=merge-with x=skip-learner-only
+# roles letters: A=top mgmt (US,UY,BS,BY,SD) O=owners(US,BS) U=manufacturer(US,UY) B=distributor(BS,BY) S=sales mgmt(SD,SM,BM,SS) F=field rep(ST) M=finance(FM) L=warehouse/logistics(DL) I=IT
+FMCG-1.1|s|ASM|t|sektor-ve-kanal|margin-vs-markup+margin-stack|pilot card #1 = margin-vs-markup (includes stack example); stack card separate
+FMCG-1.2|a|AM|o|sektor-ve-kanal|scale-and-concentration|HHI shown as simple calc only
+FMCG-1.3|d|AS|t|sektor-ve-kanal|channel-actors|double marginalisation in plain words
+FMCG-1.4|d|AS|o|sektor-ve-kanal|channel-power-conflict|
+FMCG-1.5|d|ASF|t|sektor-ve-kanal|turkish-fmcg-landscape|Law 6585 -> valid_as_of
+FMCG-2.1|d|AM|t|ticari-finans|fmcg-pnl|
+FMCG-2.2|d|ASM|o|ticari-finans|gross-to-net|
+FMCG-2.3|d|ASM|t|ticari-finans|contribution-breakeven|
+FMCG-2.4|a|AM|o|ticari-finans|roi-roce-npv|
+FMCG-2.5|m:ECO-38.2||||| merged into ECO cash-conversion pilot card
+FMCG-2.6|d|ASM|o|ticari-finans|price-volume-mix-variance|
+FMCG-3.1|a|AS|t|tuketici-ve-marka|consumer-decisions|
+FMCG-3.2|a|UA|i|tuketici-ve-marka|repeat-buying-patterns|NBD-Dirichlet as intuition only, no formalism
+FMCG-3.3|m:FMCG-3.2||||| double jeopardy folded into repeat-buying card
+FMCG-3.4|d|AS|t|tuketici-ve-marka|mental-physical-availability|
+FMCG-3.5|a|U|o|tuketici-ve-marka|brand-equity|
+FMCG-3.6|m:FMCG-3.5|||||
+FMCG-3.7|d|ASF|t|tuketici-ve-marka|shopper-path-to-purchase|
+FMCG-3.8|a|U|o|tuketici-ve-marka|market-research-toolkit|
+FMCG-4.1|m:FMCG-4.2|||||
+FMCG-4.2|a|U|o|strateji-ve-portfoy|segmentation-positioning|
+FMCG-4.3|d|A|o|strateji-ve-portfoy|competitive-strategy|
+FMCG-4.4|d|U|o|strateji-ve-portfoy|portfolio-management|
+FMCG-4.5|a|U|o|strateji-ve-portfoy|stage-gate-innovation|
+FMCG-4.6|d|ASL|o|strateji-ve-portfoy|sku-rationalisation|
+FMCG-4.7|a|US|i|strateji-ve-portfoy|launch-forecasting|
+FMCG-5.1|a|ASM|o|fiyatlama-ve-promosyon|price-elasticity|estimation shown conceptually
+FMCG-5.2|m:FMCG-5.1|||||
+FMCG-5.3|d|AS|o|fiyatlama-ve-promosyon|price-pack-architecture|
+FMCG-5.4|d|ASM|o|fiyatlama-ve-promosyon|promotion-economics|
+FMCG-5.5|d|ASM|i|fiyatlama-ve-promosyon|trade-spend-roi|
+FMCG-5.6|d|ASM|o|fiyatlama-ve-promosyon|pricing-in-high-inflation|
+FMCG-5.7|d|AS|i|fiyatlama-ve-promosyon|rgm-system|
+FMCG-6.1|d|AS|t|dagitim-modeli|rtm-channels-formats|
+FMCG-6.2|d|ASF|t|dagitim-modeli|outlet-universe-segmentation|
+FMCG-6.3|d|ASML|o|dagitim-modeli|cost-to-serve|
+FMCG-6.4|d|A|o|dagitim-modeli|direct-vs-indirect|
+FMCG-6.5|d|AS|t|dagitim-modeli|wholesale-cash-carry|
+FMCG-6.6|d|AS|t|dagitim-modeli|horeca|
+FMCG-6.7|d|AS|o|dagitim-modeli|e-grocery-quick-commerce|
+FMCG-6.8|a|A|i|dagitim-modeli|rtm-design-case|case study as example card
+FMCG-7.1|d|BSM|t|bayi-yonetimi|distributor-pnl|
+FMCG-7.2|d|BUM|o|bayi-yonetimi|distributor-roi|
+FMCG-7.3|d|BSFM|t|bayi-yonetimi|credit-collections-dso|
+FMCG-7.4|d|AS|o|bayi-yonetimi|distributor-selection-kpis|
+FMCG-7.5|d|AS|o|bayi-yonetimi|distributor-development|
+FMCG-8.1|d|SF|t|saha-satis-ekibi|selling-formats|presell/van/telesales
+FMCG-8.2|d|SF|t|saha-satis-ekibi|structured-sales-call|
+FMCG-8.3|a|S|o|saha-satis-ekibi|salesperson-performance-drivers|
+FMCG-8.4|d|AS|o|saha-satis-ekibi|sales-force-sizing|
+FMCG-8.5|d|SL|o|saha-satis-ekibi|territory-routing|
+FMCG-8.6|d|AS|o|saha-satis-ekibi|sales-org-span-of-control|
+FMCG-8.7|d|AS|t|saha-satis-ekibi|sales-kpi-design|
+FMCG-8.8|d|ASM|o|saha-satis-ekibi|incentive-compensation|
+FMCG-8.9|d|S|t|saha-satis-ekibi|coaching|
+FMCG-8.10|d|SI|t|saha-satis-ekibi|sfa-data-driven-selling|
+FMCG-8.11|m:FMCG-8.8||||| agency theory folded into incentive card as 'neden' box
+FMCG-8.12|d|S|t|saha-satis-ekibi|salesperson-motivation|
+FMCG-8.13|d|SI|o|saha-satis-ekibi|sales-analytics|
+FMCG-9.1|d|AS|t|perakende-uygulama|retailer-economics|
+FMCG-9.2|d|AS|t|perakende-uygulama|formats-private-label|
+FMCG-9.3|a|SF|o|perakende-uygulama|shelf-space-planogram|
+FMCG-9.4|d|SFL|t|perakende-uygulama|osa-out-of-stock|
+FMCG-9.5|d|SF|t|perakende-uygulama|perfect-store|
+FMCG-9.6|d|US|o|perakende-uygulama|trade-marketing|
+FMCG-9.7|d|US|o|perakende-uygulama|retail-media|
+FMCG-10.1|d|AS|o|kilit-musteri-ve-kategori|key-account-management|
+FMCG-10.2|d|ASM|o|kilit-musteri-ve-kategori|trade-terms|
+FMCG-10.3|m:FMCG-10.4|||||
+FMCG-10.4|d|AS|o|kilit-musteri-ve-kategori|negotiating-with-chains|
+FMCG-10.5|m:FMCG-10.6|||||
+FMCG-10.6|d|AS|o|kilit-musteri-ve-kategori|category-management|
+FMCG-10.7|d|AS|i|kilit-musteri-ve-kategori|joint-business-planning|
+FMCG-10.8|m:FMCG-10.1||||| research evidence box in KAM card
+FMCG-11.1|d|AL|t|tedarik-zinciri-ve-stok|supply-chain-basics|
+FMCG-11.2|d|ASL|o|tedarik-zinciri-ve-stok|demand-forecasting|
+FMCG-11.3|d|BL|o|tedarik-zinciri-ve-stok|eoq-reorder-point|
+FMCG-11.4|d|BL|o|tedarik-zinciri-ve-stok|safety-stock|
+FMCG-11.5|d|AL|t|tedarik-zinciri-ve-stok|bullwhip-effect|
+FMCG-11.6|d|AL|i|tedarik-zinciri-ve-stok|sop-ibp|
+FMCG-11.7|d|L|o|tedarik-zinciri-ve-stok|warehouse-transport-network|
+FMCG-11.8|d|L|o|tedarik-zinciri-ve-stok|cold-chain|
+FMCG-11.9|d|AL|i|tedarik-zinciri-ve-stok|vmi-cpfr|
+FMCG-12.1|d|AS|o|liderlik-ve-degisim|leading-sales-orgs|
+FMCG-12.2|d|AI|o|liderlik-ve-degisim|change-digital-transformation|
+FMCG-12.3|d|ASM|o|liderlik-ve-degisim|analytics-for-decisions|
+FMCG-12.4|d|A|o|liderlik-ve-degisim|sustainability-regulation|valid_as_of
+FMCG-12.5|d|AS|t|liderlik-ve-degisim|ethics-compliance-trade|Rekabet law; valid_as_of
+FMCG-12.6|a|U|i|liderlik-ve-degisim|case-brand-growth-plan|capstone -> worked case card
+FMCG-12.7|a|BS|i|bayi-yonetimi|case-distributor-turnaround|capstone -> worked case card
+FMCG-12.8|m:FMCG-10.7||||| capstone folded into JBP card as example
+FMCG-12.9|x||||| reading map for learner
+FMCG-13.1|x||||| history of selling; learner-only
+FMCG-13.2|s|SF|o|satis-teknikleri|spin-solution-selling+strategic-selling|
+FMCG-13.3|d|S|o|satis-teknikleri|challenger-meddic-sandler|
+FMCG-13.4|d|AS|o|satis-teknikleri|b2b-buying-behaviour|
+FMCG-13.5|d|SF|t|satis-teknikleri|retail-buyer-decisions|
+FMCG-13.6|d|SF|t|satis-teknikleri|persuasion-science|ethics note
+FMCG-13.7|d|SF|o|satis-teknikleri|behavioural-economics-selling|
+FMCG-13.8|d|S|o|satis-teknikleri|sales-funnel-math|
+FMCG-13.9|d|SF|t|satis-teknikleri|prospecting-account-segmentation|
+FMCG-13.10|m:FMCG-8.2||||| call planning merged into structured-call card
+FMCG-13.11|d|SF|t|satis-teknikleri|objections-closing-upsell|
+FMCG-13.12|d|SF|t|satis-teknikleri|adaptive-selling|
+FMCG-13.13|d|SF|t|satis-teknikleri|relationship-selling-trust|
+FMCG-13.14|d|AS|o|satis-teknikleri|negotiation-structure|BATNA/ZOPA
+FMCG-13.15|m:FMCG-13.14|||||
+FMCG-13.16|d|ASM|o|satis-teknikleri|sales-forecasting|
+FMCG-13.17|d|SF|t|satis-teknikleri|turkish-trade-practice|
+ECO-1.1|a|A|t|ekonomi-temelleri|opportunity-cost-sunk-cost|practical: sunk vs opportunity cost in business decisions
+ECO-1.2|x|||||
+ECO-1.3|d|AS|t|ekonomi-temelleri|supply-demand|
+ECO-1.4|m:FMCG-5.1||||| elasticity covered by FMCG card
+ECO-1.5|a|AM|o|ekonomi-temelleri|price-controls-tax-incidence|who bears KDV/ÖTV; price caps
+ECO-1.6|x|||||
+ECO-2.1|x|||||
+ECO-2.2|x|||||
+ECO-2.3|x|||||
+ECO-2.4|x|||||
+ECO-2.5|a|AM|o|ekonomi-temelleri|growth-rates-and-logs|percent change, compounding, real growth basics
+ECO-3.1|x|||||
+ECO-3.2|x|||||
+ECO-3.3|x|||||
+ECO-3.4|x|||||
+ECO-3.5|x|||||
+ECO-3.6|x|||||
+ECO-3.7|m:ECO-14.2||||| CPI bias box in inflation-measurement card
+ECO-3.8|x|||||
+ECO-3.9|x|||||
+ECO-4.1|x|||||
+ECO-4.2|a|AM|o|finansal-piyasalar-ve-risk|risk-aversion-insurance|why firms insure/hedge
+ECO-5.1|x|||||
+ECO-5.2|x|||||
+ECO-5.3|x|||||
+ECO-5.4|x|||||
+ECO-5.5|a|AM|o|ekonomi-temelleri|economies-of-scale-sunk-costs|
+ECO-6.1|x|||||
+ECO-6.2|x|||||
+ECO-6.3|x|||||
+ECO-6.4|d|ASM|o|ekonomi-temelleri|price-discrimination|volume discounts, tiered prices
+ECO-6.5|x|||||
+ECO-7.1|a|AS|o|ekonomi-temelleri|game-theory-for-managers|price wars, prisoner's dilemma
+ECO-7.2|x|||||
+ECO-7.3|m:ECO-7.1|||||
+ECO-7.4|m:ECO-7.1|||||
+ECO-7.5|a|AM|o|ekonomi-temelleri|auctions-tenders|tenders/e-auctions
+ECO-7.6|m:ECO-7.7|||||
+ECO-7.7|a|A|i|ekonomi-temelleri|oligopoly-collusion|competition-law angle
+ECO-8.1|m:FMCG-1.2|||||
+ECO-8.2|a|A|o|ekonomi-temelleri|vertical-restraints|RPM, exclusivity; Rekabet; valid_as_of
+ECO-9.1|x|||||
+ECO-9.2|a|AM|o|ekonomi-temelleri|minimum-wage-labour-costs|valid_as_of
+ECO-10.1|x|||||
+ECO-10.2|x|||||
+ECO-10.3|x|||||
+ECO-10.4|x|||||
+ECO-11.1|m:ECO-40.4|||||
+ECO-11.2|x|||||
+ECO-11.3|x|||||
+ECO-11.4|m:ECO-1.5|||||
+ECO-12.1|a|AM|o|ekonomi-temelleri|adverse-selection-credit|bad customers in open-account credit
+ECO-12.2|m:ECO-12.1|||||
+ECO-12.3|a|AS|o|ekonomi-temelleri|principal-agent|distributor/salesforce incentives
+ECO-12.4|x|||||
+ECO-13.1|d|AS|t|ekonomi-temelleri|heuristics-biases|
+ECO-13.2|m:FMCG-13.7||||| prospect theory used in selling card
+ECO-13.3|m:FMCG-13.7|||||
+ECO-14.1|a|AM|t|makroekonomi-ve-enflasyon|gdp-real-nominal|
+ECO-14.2|d|ASM|t|makroekonomi-ve-enflasyon|inflation-measurement-tufe-ufe|valid_as_of
+ECO-14.3|m:ECO-14.1|||||
+ECO-15.1|x|||||
+ECO-15.2|x|||||
+ECO-15.3|x|||||
+ECO-15.4|x|||||
+ECO-15.5|x|||||
+ECO-15.6|x|||||
+ECO-16.1|x|||||
+ECO-16.2|x|||||
+ECO-17.1|x|||||
+ECO-17.2|x|||||
+ECO-18.1|x|||||
+ECO-18.2|m:ECO-50.4|||||
+ECO-18.3|d|AM|t|makroekonomi-ve-enflasyon|real-vs-nominal-interest-fisher|
+ECO-19.1|x|||||
+ECO-19.2|x|||||
+ECO-19.3|a|AM|o|makroekonomi-ve-enflasyon|supply-shocks-cost-inflation|
+ECO-19.4|x|||||
+ECO-19.5|x|||||
+ECO-20.1|x|||||
+ECO-20.2|x|||||
+ECO-20.3|x|||||
+ECO-21.1|d|AM|o|makroekonomi-ve-enflasyon|monetary-policy-tcmb|valid_as_of
+ECO-21.2|m:ECO-21.1|||||
+ECO-21.3|x|||||
+ECO-21.4|x|||||
+ECO-22.1|d|AM|o|makroekonomi-ve-enflasyon|exchange-rates-real-nominal|
+ECO-22.2|x|||||
+ECO-22.3|x|||||
+ECO-22.4|m:ECO-22.1|||||
+ECO-23.1|x|||||
+ECO-23.2|a|AM|o|makroekonomi-ve-enflasyon|currency-crises-business|
+ECO-23.3|x|||||
+ECO-24.1|x|||||
+ECO-24.2|m:ECO-24.3|||||
+ECO-24.3|a|A|o|makroekonomi-ve-enflasyon|turkey-crises-lessons|2001 & 2018 lessons for business
+ECO-24.4|m:ECO-24.3|||||
+ECO-25.1|d|AM|t|kurumsal-finans|time-value-npv-irr|
+ECO-25.2|d|AM|t|kurumsal-finans|loans-real-vs-nominal|TRY loan examples
+ECO-25.3|x|||||
+ECO-25.4|x|||||
+ECO-25.5|x|||||
+ECO-25.6|a|M|o|finansal-piyasalar-ve-risk|bond-types-treasury-instruments|for surplus cash
+ECO-25.7|x|||||
+ECO-26.1|x|||||
+ECO-26.2|x|||||
+ECO-26.3|x|||||
+ECO-26.4|a|OM|i|kurumsal-finans|business-valuation-basics|selling/buying a distributor
+ECO-26.5|x|||||
+ECO-26.6|m:ECO-26.4|||||
+ECO-27.1|x|||||
+ECO-27.2|x|||||
+ECO-27.3|x|||||
+ECO-27.4|x|||||
+ECO-27.5|x|||||
+ECO-27.6|x|||||
+ECO-28.1|x|||||
+ECO-28.2|x|||||
+ECO-28.3|x|||||
+ECO-29.1|x|||||
+ECO-29.2|x|||||
+ECO-30.1|a|M|i|finansal-piyasalar-ve-risk|forwards-fx-hedging|
+ECO-30.2|x|||||
+ECO-30.3|x|||||
+ECO-30.4|x|||||
+ECO-30.5|x|||||
+ECO-31.1|d|AM|o|kurumsal-finans|capital-budgeting|
+ECO-31.2|a|M|i|kurumsal-finans|cost-of-capital|
+ECO-31.3|x|||||
+ECO-31.4|a|OM|i|kurumsal-finans|debt-vs-equity|
+ECO-31.5|a|O|o|kurumsal-finans|agency-governance-family-firm|
+ECO-31.6|x|||||
+ECO-31.7|m:ECO-38.2|||||
+ECO-31.8|a|O|i|kurumsal-finans|mergers-acquisitions|
+ECO-31.9|a|M|o|kurumsal-finans|three-statement-model|spreadsheet practice
+ECO-31.10|a|M|i|kurumsal-finans|scenario-sensitivity|
+ECO-32.1|x|||||
+ECO-32.2|m:ECO-30.1|||||
+ECO-32.3|a|M|i|finansal-piyasalar-ve-risk|risk-management-stress-test|
+ECO-32.4|d|AM|o|kurumsal-finans|finance-in-high-inflation|
+ECO-32.5|x|||||
+ECO-33.1|x|||||
+ECO-33.2|d|AM|t|finansal-tablolar|double-entry-basics|
+ECO-33.3|a|M|t|finansal-tablolar|accruals-period-close|
+ECO-33.4|d|AM|t|finansal-tablolar|income-statement|
+ECO-33.5|d|AM|t|finansal-tablolar|balance-sheet|
+ECO-33.6|d|AM|t|finansal-tablolar|cash-flow-statement|
+ECO-33.7|a|AM|o|finansal-tablolar|reading-annual-report|
+ECO-34.1|d|BML|o|finansal-tablolar|inventory-valuation|
+ECO-34.2|d|BM|o|finansal-tablolar|receivables-doubtful-debts|
+ECO-34.3|a|M|o|finansal-tablolar|fixed-assets-depreciation|
+ECO-34.4|x|||||
+ECO-34.5|a|M|i|finansal-tablolar|leases-ifrs16|vehicle/warehouse leases
+ECO-34.6|x|||||
+ECO-34.7|a|AM|o|finansal-tablolar|provisions-severance|kıdem tazminatı; valid_as_of
+ECO-34.8|a|M|i|finansal-tablolar|fx-transactions|
+ECO-34.9|x|||||
+ECO-35.1|a|M|o|finansal-tablolar|reporting-regimes-tr|valid_as_of
+ECO-35.2|d|AM|o|finansal-tablolar|inflation-accounting|TMS 29/VUK; valid_as_of
+ECO-35.3|m:ECO-35.2|||||
+ECO-35.4|m:ECO-35.2|||||
+ECO-36.1|x|||||
+ECO-36.2|m:ECO-36.4|||||
+ECO-36.3|m:ECO-38.2|||||
+ECO-36.4|d|AM|o|finansal-analiz|ratios-profitability-leverage|
+ECO-36.5|d|AM|o|finansal-analiz|dupont|
+ECO-36.6|d|AM|o|finansal-analiz|cash-flow-vs-profit|
+ECO-36.7|a|M|i|finansal-analiz|earnings-quality-red-flags|
+ECO-36.8|x|||||
+ECO-37.1|m:ECO-31.9|||||
+ECO-37.2|m:ECO-31.10|||||
+ECO-37.3|d|BSM|o|finansal-analiz|customer-credit-analysis|5C applied to bakkal/market customers
+ECO-37.4|a|M|i|finansal-analiz|distress-signals-z-score|
+ECO-37.5|m:ECO-37.4|||||
+ECO-37.6|x|||||
+ECO-38.1|d|BUM|t|finansal-analiz|distributor-financial-statements|
+ECO-38.2|d|ASM|o|finansal-analiz|cash-conversion-cycle|PILOT card #2
+ECO-38.3|d|BM|o|finansal-analiz|distributor-credit-risk-dbs|DBS, factoring; valid_as_of
+ECO-38.4|x|||||
+ECO-38.5|x|||||
+ECO-39.1|m:FMCG-2.3|||||
+ECO-39.2|a|UM|o|maliyet-ve-butce|product-costing|
+ECO-39.3|d|BSM|o|maliyet-ve-butce|abc-customer-profitability|
+ECO-39.4|d|AM|o|maliyet-ve-butce|budgeting-standard-costs|
+ECO-39.5|a|AM|i|maliyet-ve-butce|relevant-costs-decisions|
+ECO-40.1|x|||||
+ECO-40.2|x|||||
+ECO-40.3|x|||||
+ECO-40.4|a|U|o|vergi-ve-mevzuat|environmental-taxes-cbam|packaging, carbon; valid_as_of
+ECO-41.1|x|||||
+ECO-41.2|x|||||
+ECO-41.3|x|||||
+ECO-41.4|x|||||
+ECO-42.1|a|AM|t|vergi-ve-mevzuat|tax-basics-average-marginal|
+ECO-42.2|m:ECO-1.5|||||
+ECO-42.3|x|||||
+ECO-42.4|x|||||
+ECO-42.5|x|||||
+ECO-42.6|x|||||
+ECO-42.7|x|||||
+ECO-42.8|a|AM|o|vergi-ve-mevzuat|informality-tax-compliance|kayıt dışı and competition
+ECO-43.1|d|AM|t|vergi-ve-mevzuat|turkish-tax-system-overview|valid_as_of
+ECO-43.2|d|OM|o|vergi-ve-mevzuat|income-tax-withholding|valid_as_of
+ECO-43.3|d|OM|o|vergi-ve-mevzuat|corporate-tax|valid_as_of
+ECO-43.4|d|ASM|t|vergi-ve-mevzuat|kdv-vat|valid_as_of
+ECO-43.5|d|ASM|o|vergi-ve-mevzuat|otv-stamp-duty|valid_as_of
+ECO-43.6|d|AMI|o|vergi-ve-mevzuat|tax-procedure-inspection|valid_as_of
+ECO-44.1|x|||||
+ECO-44.2|x|||||
+ECO-44.3|a|OM|o|vergi-ve-mevzuat|sgk-employer-costs|valid_as_of
+ECO-44.4|x|||||
+ECO-45.1|x|||||
+ECO-45.2|x|||||
+ECO-45.3|x|||||
+ECO-45.4|x|||||
+ECO-45.5|x|||||
+ECO-45.6|x|||||
+ECO-46.1|x|||||
+ECO-46.2|x|||||
+ECO-46.3|x|||||
+ECO-46.4|x|||||
+ECO-46.5|x|||||
+ECO-47.1|d|ASM|t|veri-ve-istatistik|descriptive-statistics|
+ECO-47.2|x|||||
+ECO-47.3|a|SM|o|veri-ve-istatistik|sampling-confidence|store audits sampling
+ECO-47.4|a|SM|i|veri-ve-istatistik|ab-testing-significance|did the promotion work?
+ECO-47.5|d|ASM|o|veri-ve-istatistik|correlation-regression-basics|
+ECO-48.1|x|||||
+ECO-48.2|x|||||
+ECO-48.3|x|||||
+ECO-48.4|x|||||
+ECO-48.5|x|||||
+ECO-48.6|x|||||
+ECO-48.7|a|SM|i|veri-ve-istatistik|test-vs-control-did|pilot regions vs control
+ECO-48.8|x|||||
+ECO-49.1|a|SL|i|veri-ve-istatistik|time-series-seasonality|
+ECO-49.2|x|||||
+ECO-49.3|x|||||
+ECO-49.4|x|||||
+ECO-49.5|x|||||
+ECO-49.6|x|||||
+ECO-50.1|x|||||
+ECO-50.2|x|||||
+ECO-50.3|a|OM|o|finansal-piyasalar-ve-risk|working-with-banks|how banks look at you
+ECO-50.4|a|AM|o|makroekonomi-ve-enflasyon|tcmb-policy-rate-credit|valid_as_of
+ECO-50.5|x|||||
+ECO-51.1|x|||||
+ECO-51.2|x|||||
+ECO-51.3|x|||||
+ECO-51.4|x|||||
+ECO-52.1|a|OM|o|finansal-piyasalar-ve-risk|business-insurance|cargo, stock, credit insurance
+ECO-52.2|x|||||
+ECO-52.3|x|||||
+ECO-53.1|x|||||
+ECO-53.2|x|||||
+ECO-53.3|x|||||
+ECO-53.4|x|||||
+ECO-53.5|x|||||
+ECO-54.1|x|||||
+ECO-54.2|x|||||
+ECO-54.3|a|O|i|finansal-piyasalar-ve-risk|governance-sustainability-reporting|TSRS; valid_as_of
+ECO-55.1|a|BM|i|finansal-analiz|case-distributor-credit-decision|capstone -> case card
+ECO-55.2|x|||||
+ECO-55.3|x|||||
+ECO-55.4|x|||||
+ECO-55.5|x|||||
+EA-1.1|a|AI|t|is-sistemleri-temelleri|what-is-an-enterprise-system|
+EA-1.2|m:EA-1.1|||||
+EA-1.3|x|||||
+EA-1.4|x|||||
+EA-1.5|a|AI|o|is-sistemleri-temelleri|software-vendor-economics-lockin|
+EA-2.1|x|||||
+EA-2.2|a|AI|o|is-sistemleri-temelleri|user-adoption|why field teams do/don't use apps
+EA-2.3|m:EA-2.2|||||
+EA-2.4|x|||||
+EA-2.5|x|||||
+EA-3.1|x|||||
+EA-3.2|a|AI|o|is-sistemleri-temelleri|it-plus-process-complementarity|
+EA-3.3|x|||||
+EA-3.4|x|||||
+EA-3.5|x|||||
+EA-3.6|d|AMI|o|yazilim-secimi-ve-proje|it-business-case|
+EA-4.1|d|AI|t|surec-yonetimi|what-is-a-process|
+EA-4.2|d|AI|o|surec-yonetimi|bpm-lifecycle|
+EA-4.3|a|I|o|surec-yonetimi|process-maps-bpmn|
+EA-4.4|m:EA-4.3|||||
+EA-4.5|x|||||
+EA-4.6|d|ASLI|o|surec-yonetimi|process-analysis-cycle-time|
+EA-4.7|a|AI|i|surec-yonetimi|process-mining|
+EA-4.8|m:EA-4.7|||||
+EA-4.9|a|I|o|surec-yonetimi|workflow-approvals|
+EA-5.1|x|||||
+EA-5.2|x|||||
+EA-5.3|x|||||
+EA-5.4|a|I|o|is-sistemleri-temelleri|application-portfolio|
+EA-5.5|d|AI|o|is-sistemleri-temelleri|erp-core-vs-best-of-breed|
+EA-6.1|a|OI|o|bt-yonetisimi-ve-guvenlik|it-governance-decision-rights|
+EA-6.2|a|I|o|bt-yonetisimi-ve-guvenlik|it-service-sla|
+EA-6.3|a|I|o|bt-yonetisimi-ve-guvenlik|information-security-basics|
+EA-6.4|d|MI|o|bt-yonetisimi-ve-guvenlik|internal-controls-sod|
+EA-6.5|m:EA-8.1|||||
+EA-7.1|x|||||
+EA-7.2|x|||||
+EA-7.3|x|||||
+EA-7.4|x|||||
+EA-7.5|x|||||
+EA-7.6|x|||||
+EA-7.7|x|||||
+EA-8.1|d|AMI|t|veri-yonetimi|master-data-governance|
+EA-8.2|d|ASI|t|veri-yonetimi|data-quality-field|
+EA-8.3|a|I|i|veri-yonetimi|mdm-matching-duplicates|duplicate outlets
+EA-8.4|d|ULI|o|veri-yonetimi|gs1-barcodes-pim|
+EA-8.5|x|||||
+EA-9.1|a|AI|o|veri-yonetimi|reporting-vs-transaction-systems|
+EA-9.2|a|I|i|veri-yonetimi|sell-in-sell-out-reporting|
+EA-9.3|x|||||
+EA-9.4|x|||||
+EA-9.5|x|||||
+EA-9.6|d|ASI|t|veri-yonetimi|bi-dashboards-kpis|
+EA-10.1|a|AI|o|entegrasyon|why-integration-is-hard|
+EA-10.2|x|||||
+EA-10.3|x|||||
+EA-10.4|x|||||
+EA-10.5|m:EA-10.1|||||
+EA-11.1|x|||||
+EA-11.2|x|||||
+EA-11.3|x|||||
+EA-11.4|d|UI|o|entegrasyon|edi-with-chains|
+EA-11.5|m:EA-37.1|||||
+EA-11.6|a|I|i|entegrasyon|apis-for-managers|what an API is, what to ask vendors
+EA-12.1|x|||||
+EA-12.2|x|||||
+EA-12.3|x|||||
+EA-12.4|x|||||
+EA-13.1|x|||||
+EA-13.2|x|||||
+EA-13.3|x|||||
+EA-13.4|x|||||
+EA-13.5|x|||||
+EA-14.1|x|||||
+EA-14.2|x|||||
+EA-14.3|x|||||
+EA-14.4|a|OI|o|bt-yonetisimi-ve-guvenlik|backup-disaster-recovery|RPO/RTO in plain words
+EA-14.5|x|||||
+EA-15.1|x|||||
+EA-15.2|a|MI|o|bt-yonetisimi-ve-guvenlik|user-roles-permissions|
+EA-15.3|x|||||
+EA-15.4|m:EA-15.2|||||
+EA-15.5|d|AI|t|bt-yonetisimi-ve-guvenlik|kvkk-basics|valid_as_of
+EA-16.1|d|AI|t|is-sistemleri-temelleri|cloud-saas-basics|
+EA-16.2|x|||||
+EA-16.3|x|||||
+EA-16.4|x|||||
+EA-16.5|a|MI|o|bt-yonetisimi-ve-guvenlik|cloud-cost-data-residency|valid_as_of
+EA-17.1|d|AI|o|yazilim-secimi-ve-proje|build-buy-configure|
+EA-17.2|d|AMI|o|yazilim-secimi-ve-proje|total-cost-of-ownership|
+EA-17.3|a|I|o|yazilim-secimi-ve-proje|writing-requirements|
+EA-17.4|d|AI|o|yazilim-secimi-ve-proje|vendor-selection-rfp|
+EA-18.1|m:EA-18.3|||||
+EA-18.2|m:EA-18.3|||||
+EA-18.3|d|AI|o|yazilim-secimi-ve-proje|why-erp-projects-fail|
+EA-18.4|d|AI|o|yazilim-secimi-ve-proje|post-go-live-dip|
+EA-18.5|a|I|o|yazilim-secimi-ve-proje|implementation-methodology|
+EA-18.6|a|MI|o|yazilim-secimi-ve-proje|data-migration-opening-balances|
+EA-18.7|d|ASI|t|yazilim-secimi-ve-proje|change-management-training|
+EA-18.8|x|||||
+EA-19.1|a|I|o|yazilim-secimi-ve-proje|project-management-basics|
+EA-19.2|x|||||
+EA-19.3|a|I|o|yazilim-secimi-ve-proje|working-with-it-partners|
+EA-20.1|d|AMI|t|erp|what-erp-does|
+EA-20.2|d|ASMI|t|erp|order-to-cash|PILOT card #3
+EA-20.3|d|BMLI|t|erp|procure-to-pay|
+EA-20.4|a|MI|o|erp|record-to-report-close|
+EA-20.5|d|BML|o|erp|inventory-in-erp|
+EA-20.6|a|ULI|o|erp|mrp-basics|
+EA-20.7|m:EA-20.6|||||
+EA-20.8|x|||||
+EA-21.1|m:EA-21.3|||||
+EA-21.2|m:EA-21.3|||||
+EA-21.3|d|AI|t|erp|erp-market-turkey|vendor names only, valid_as_of
+EA-21.4|x|||||
+EA-22.1|d|MI|o|erp|chart-of-accounts-tekduzen|
+EA-22.2|a|MI|i|erp|multi-currency-inflation-adjust-in-erp|valid_as_of
+EA-22.3|a|MI|i|erp|consolidation-close-systems|
+EA-22.4|x|||||
+EA-23.1|a|AM|o|maliyet-ve-butce|budgeting-purposes-games|
+EA-23.2|d|AM|o|maliyet-ve-butce|rolling-forecast-driver-based|
+EA-23.3|d|AS|o|maliyet-ve-butce|balanced-scorecard-okr|
+EA-23.4|x|||||
+EA-23.5|m:ECO-39.3|||||
+EA-24.1|d|OM|o|finansal-analiz|treasury-cash-forecasting|
+EA-24.2|a|MI|o|e-belge-ve-odeme|bank-statement-integration|
+EA-24.3|d|BMS|o|e-belge-ve-odeme|credit-limits-collections-systems|DBS
+EA-25.1|a|AS|o|saha-satis-ve-dms|crm-basics|
+EA-25.2|d|ASM|i|saha-satis-ve-dms|customer-lifetime-value|
+EA-25.3|m:FMCG-8.10|||||
+EA-25.4|d|USI|o|saha-satis-ve-dms|consent-iys-marketing|valid_as_of
+EA-25.5|a|SI|o|saha-satis-ve-dms|customer-service-cases|
+EA-25.6|x|||||
+EA-26.1|d|SFI|t|saha-satis-ve-dms|retail-execution-sfa|
+EA-26.2|d|SI|o|saha-satis-ve-dms|field-data-outlet-visit|
+EA-26.3|a|I|o|saha-satis-ve-dms|offline-mode-for-managers|what offline-first means for users
+EA-26.4|m:EA-26.3|||||
+EA-26.5|d|BSFL|t|saha-satis-ve-dms|van-sales-presales|
+EA-26.6|d|ASI|o|saha-satis-ve-dms|dms-secondary-sales|
+EA-27.1|d|SMI|o|saha-satis-ve-dms|pricing-engine-conditions|
+EA-27.2|d|ASM|i|saha-satis-ve-dms|tpm-promotion-settlement|
+EA-27.3|x|||||
+EA-28.1|a|SLI|o|saha-satis-ve-dms|order-management|
+EA-28.2|d|ASI|o|saha-satis-ve-dms|b2b-ordering-portals|
+EA-28.3|a|SI|o|e-belge-ve-odeme|pos-okc|valid_as_of
+EA-28.4|a|MI|o|e-belge-ve-odeme|card-virtual-pos|
+EA-29.1|x|||||
+EA-29.2|a|SL|o|tedarik-ve-depo-sistemleri|demand-planning-systems|
+EA-29.3|a|L|i|tedarik-ve-depo-sistemleri|drp-inventory-planning|
+EA-29.4|m:FMCG-11.6|||||
+EA-30.1|d|BL|t|tedarik-ve-depo-sistemleri|warehouse-operations-kpis|
+EA-30.2|d|L|o|tedarik-ve-depo-sistemleri|slotting-picking|
+EA-30.3|a|LI|i|tedarik-ve-depo-sistemleri|wms-what-it-does|
+EA-30.4|d|LI|o|tedarik-ve-depo-sistemleri|barcodes-traceability|ITS/ÜTS where relevant; valid_as_of
+EA-31.1|d|BL|o|tedarik-ve-depo-sistemleri|tms-fleet-telematics|
+EA-31.2|m:EA-31.3|||||
+EA-31.3|d|SL|o|tedarik-ve-depo-sistemleri|route-planning-sales-vs-delivery|
+EA-32.1|a|UL|o|tedarik-ve-depo-sistemleri|mes-oee|
+EA-32.2|d|UL|o|tedarik-ve-depo-sistemleri|food-safety-traceability|valid_as_of
+EA-32.3|x|||||
+EA-32.4|a|L|o|tedarik-ve-depo-sistemleri|asset-maintenance|vehicles, coolers
+EA-33.1|a|A|o|is-sistemleri-temelleri|hr-systems|
+EA-33.2|a|OM|o|vergi-ve-mevzuat|payroll-basics|valid_as_of
+EA-33.3|d|SM|o|saha-satis-ve-dms|incentive-compensation-systems|
+EA-34.1|a|UM|o|tedarik-ve-depo-sistemleri|purchasing-supplier-management|
+EA-34.2|x|||||
+EA-35.1|a|MI|o|bt-yonetisimi-ve-guvenlik|document-archive-retention|valid_as_of
+EA-35.2|d|AMI|o|e-belge-ve-odeme|e-signature-kep-seal|valid_as_of
+EA-35.3|m:EA-4.9|||||
+EA-36.1|x|||||
+EA-36.2|x|||||
+EA-36.3|x|||||
+EA-37.1|d|ASMI|t|e-belge-ve-odeme|e-document-map|valid_as_of
+EA-37.2|s|MI|o|e-belge-ve-odeme|e-fatura-scenarios+e-irsaliye-practice|business-side only; valid_as_of
+EA-37.3|d|MI|o|e-belge-ve-odeme|e-document-integration-routes|valid_as_of
+EA-37.4|d|MI|o|e-belge-ve-odeme|e-defter-e-arsiv|valid_as_of
+EA-38.1|d|AM|t|e-belge-ve-odeme|payment-systems-tr|valid_as_of
+EA-38.2|x|||||
+EA-38.3|d|BM|o|e-belge-ve-odeme|findeks-credit-bureau|valid_as_of
+EA-39.1|a|I|o|yapay-zeka-ve-otomasyon|low-code|
+EA-39.2|a|MI|o|yapay-zeka-ve-otomasyon|rpa|
+EA-39.3|d|A|t|yapay-zeka-ve-otomasyon|genai-at-work|
+EA-39.4|a|AI|o|yapay-zeka-ve-otomasyon|ai-assistants-on-company-data|
+EA-39.5|d|ASI|o|yapay-zeka-ve-otomasyon|ml-forecast-recommendation|
+EA-40.1|x|||||
+EA-40.2|x|||||
+EA-40.3|x|||||
+EA-40.4|a|I|i|entegrasyon|integrating-sfa-with-erp|Logo/Mikro/SAP integration checklist for customers
+EA-40.5|x|||||
+EA-40.6|x|||||
+EA-41.1|a|BI|i|is-sistemleri-temelleri|case-distributor-app-landscape|capstone -> case card
+EA-41.2|m:EA-17.1|||||
+EA-41.3|x|||||
+EA-41.4|x|||||
+EA-41.5|a|AI|i|yazilim-secimi-ve-proje|cutover-plan|

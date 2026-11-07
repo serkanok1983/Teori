@@ -1,0 +1,44 @@
+== kb-ea-5-5 noktadan noktaya arayüz sayısı
+4 sistem, herkes herkesle: 6
+6 sistem, herkes herkesle: 15
+8 sistem, herkes herkesle: 28
+6 sistem 15 arayüz yıllık bakım 600.000 ; ERP çekirdek + 3 uydu = 3 arayüz 120.000
+== kb-ea-6-2 erişilebilirlik → izin verilen kesinti (30 gün)
+%99,50 → 216,0 dk = 3,6 saat
+%99,90 → 43,2 dk = 0,7 saat
+%99,95 → 21,6 dk = 0,4 saat
+== kb-ea-6-3 risk puanı = olasılık × etki
+Fidye yazılımı ile sunucuların şifrelenmesi 3 5 15
+Ayrılan çalışanın hesabının açık kalması 4 3 12
+Yedeklerin geri yüklenememesi 2 5 10
+Saha tabletinin kaybolması 4 2 8
+== kb-ea-6-4 görevler ayrılığı çakışması (SQLite)
+select a.kullanici from yetki a join yetki b on a.kullanici=b.kullanici
+where a.islem='cari_kart_ac' and b.islem='odeme_onayla' order by 1;
+[('ali',), ('ayse',)]
+== kb-ea-8-1 / 8-3 mükerrer müşteri
+mükerrer kayıt 960
+Yıldız Market | Yildiz Mrkt. benzerlik 0,88
+Yıldız Market | Yıldız Büfe benzerlik 0,67
+Öz Kardeşler Gıda | Oz Kardesler Gida Ltd benzerlik 0,89
+Deniz Bakkal | Deniz Bakkaliye benzerlik 0,89
+== kb-ea-8-2 veri kalitesi
+telefon boş 600 %12,0
+konum 500 m'den fazla sapmış 250 %5,0
+vergi no geçersiz (10 hane değil) 90 %1,8
+kanal tipi boş 410 %8,2
+== kb-ea-8-4 GTIN-13 kontrol hanesi
+590123412345 → 5901234123457
+400638133393 → 4006381333931
+== kb-ea-9-1 rapor yükü
+yıllık fatura satırı 2.112.000
+== kb-ea-9-2 sell-in / sell-out yıldız şema (SQLite)
+select u.urun_adi, i.koli sell_in, o.koli sell_out, i.koli-o.koli stok_degisimi,
+ round(100.0*o.koli/i.koli,1) devir_yuzde
+from urun u join (select urun_id,sum(koli) koli from sell_in group by urun_id) i using(urun_id)
+join (select urun_id,sum(koli) koli from sell_out group by urun_id) o using(urun_id) order by u.urun_id;
+('Ayran 200 ml', 700, 630, 70, 90.0)
+('Yoğurt 1 kg', 250, 200, 50, 80.0)
+('Peynir 500 g', 120, 115, 5, 95.8)
+== kb-ea-9-6 dağıtım KPI
+sayısal dağıtım %65,0 ağırlıklı dağıtım %82,0

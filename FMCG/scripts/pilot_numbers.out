@@ -1,0 +1,28 @@
+== CARD 1: margin vs markup
+margin 25,00% -> markup 33,33%
+margin 12,00% -> markup 13,64%
+markup 25% -> margin 20,00%
+cost 100: wrong (x1.25) = 125,00 margin of that = 20,00 %; right (/0.75) = 133,33
+Pd 34,09 dist gp 4,09
+Pr 45,45 ret gp 11,36
+Ps 54,55 KDV 9,09
+mfr margin 33,33 %
+cost 20,00 44,0 %
+mfr 10,00 22,0 %
+dist 4,09 9,0 %
+ret 11,36 25,0 %
+sum check 45,45 vs Pr 45,45
+== CARD 2: cash conversion cycle
+DSO 42,6 DIO 31,3 DPO 38,2 CCC 35,7 (unrounded 35,6 )
+NWC 12.000.000 fin cost 5.400.000 gross profit 15.000.000 share 36,0 %
+daily sales 328.767 10 days DSO frees 3.287.671 annual saving 1.479.452
+1.000.000 TL receivable 60 days at 3%/month real value 942.596 loss 57.404
+== CARD 3: order to cash
+ordered units 480 delivered units 456
+gross 13.680,00 discount 684,00 net 12.996,00 KDV 2.599,20 invoice total 15.595,20 COGS 11.856,00 gross profit 1.140,00 gp% 8,8
+ordered value net if full 13.680,00 lost sales net 684,00
+fill rate 95,0 %
+== extra checks
+card1 lost per unit 8,33
+card3 journal debits 16.279,20 credits 16.279,20
+card3 unit net price 28,50 short units 24

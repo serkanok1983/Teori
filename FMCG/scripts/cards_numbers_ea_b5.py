@@ -1,0 +1,41 @@
+#!/usr/bin/env python3
+"""EA kartları, 4. parti: örneklerdeki tüm rakamlar. Temsili veriler. Çalıştır: python3 scripts/cards_numbers_ea_b5.py"""
+from decimal import Decimal as D, ROUND_HALF_UP
+import sqlite3
+q=lambda x,p="0.01": D(x).quantize(D(p),ROUND_HALF_UP)
+def tl(x,p="0.01"):
+    n=len(p.split('.')[1]) if '.' in p else 0
+    return f"{q(x,p):,.{n}f}".replace(",","X").replace(".",",").replace("X",".")
+pct=lambda x,p="0.1": "%"+tl(D(x)*100,p)
+
+print("== kb-ea-21-3 kısa liste")
+print("uzun liste 7 -> demo 3 -> referans ziyareti 2 ; kullanıcı 120, e-belge senaryosu test 6")
+print("== kb-ea-22-1 çift kayıt")
+net=D(10000); kdv=net*D("0.20"); print("120 borç",tl(net+kdv),"600 alacak",tl(net),"391 alacak",tl(kdv),"denge",tl(net+kdv-net-kdv))
+print("== kb-ea-22-2 kur farkı / düzeltme")
+e=D(10000); r0,r1=D("35.00"),D("36.20"); print("fatura",tl(e*r0),"ödeme",tl(e*r1),"kur farkı",tl(e*(r1-r0)))
+a=D(1000000); k=D("1.40"); print("düzeltilmiş",tl(a*k),"fark",tl(a*k-a))
+print("== kb-ea-22-3 eliminasyon")
+s,c=D(500000),D(400000); unsold=D("0.5"); print("ciro elim",tl(s),"gerçekleşmemiş kâr",tl((s-c)*unsold))
+print("== kb-ea-23-1 bütçe payı")
+b,p=D(10000000),D(11500000); print("pay",tl(p-b),pct((p-b)/p))
+print("== kb-ea-23-2 sürücü bazlı")
+v,pr=120000,D(250); print("ciro",tl(v*pr)); m=D("0.03"); print("3 ay bileşik fiyat artışı",pct((1+m)**3-1)); print("yeni fiyat",tl(pr*(1+m)**3),"yeni ciro",tl(v*pr*(1+m)**3))
+print("== kb-ea-23-3 OKR")
+kr=[D("0.6"),D("0.8"),D("0.7")]; print("ortalama",tl(sum(kr)/3))
+print("== kb-ea-24-1 13 hafta")
+o,i,out,mn=D(2000000),D(4500000),D(5100000),D(1500000); cl=o+i-out; print("kapanış",tl(cl),"asgari açığı",tl(mn-cl))
+print("== kb-ea-24-2 eşleşme")
+print("otomatik",pct(D(870)/1000),"elle",130)
+print("== kb-ea-24-3 limit")
+l,ar,oo,n=D(500000),D(420000),D(60000),D(50000); print("risk",tl(ar+oo+n),"aşım",tl(ar+oo+n-l),"kullanılabilir",tl(l-ar-oo))
+print("== kb-ea-25-1 aktif")
+print("aktif oran",pct(D(1800)/2400),"pasif",600)
+print("== kb-ea-25-2 CLV")
+mg,i=D(1000),D("0.30")
+for r in (D("0.80"),D("0.85")): print("r",r,"CLV",tl(mg*r/(1+i-r)))
+print("artış",pct((D(850)/D("0.45"))/(D(800)/D("0.5"))-1))
+print("== kb-ea-25-4 İYS")
+print("gönderilebilir oran",pct(D(32000)/50000),"çıkarılan",18000)
+print("== kb-ea-25-5 talep")
+print("SLA içi",pct(D(540)/600),"ilk temasta çözüm",pct(D(330)/600))

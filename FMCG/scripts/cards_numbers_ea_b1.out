@@ -1,0 +1,71 @@
+== kb-ea-1-1 tekrar giriş maliyeti
+günlük ek giriş dk 360 saat 6,0
+günlük hatalı kayıt 4,8 ayda (22 gün) 106
+ayda saat (22 gün) 132
+== kb-ea-1-5 lisans vs abonelik, 5 yıl
+yıl 1: lisans kümülatif 1.080.000 abonelik kümülatif 540.000
+yıl 2: lisans kümülatif 1.260.000 abonelik kümülatif 1.080.000
+yıl 3: lisans kümülatif 1.440.000 abonelik kümülatif 1.620.000
+yıl 4: lisans kümülatif 1.620.000 abonelik kümülatif 2.160.000
+yıl 5: lisans kümülatif 1.800.000 abonelik kümülatif 2.700.000
+yıllık bakım 180.000 yıllık abonelik 540.000
+çıkış maliyeti / yıllık abonelik = 0,65
+== kb-ea-2-2 benimseme
+uygulamada kayıtlı ziyaret oranı %70,0
+A fayda 6.1 kolaylık 3.2
+B fayda 3.4 kolaylık 5.9
+C fayda 5.8 kolaylık 5.6
+40 temsilcinin %30'u 12
+hedef %90 için ek kayıt 368
+== kb-ea-3-2 tamamlayıcılık
+A teslim süresi değişimi %-50,0 hata değişimi %-71,0
+B teslim süresi değişimi %-10,0 hata değişimi %-12,9
+yatırım her ikisinde 1.500.000
+A yılda önlenen hatalı sipariş 660 B 120
+A tasarruf 297.000 B 54.000
+== kb-ea-3-6 iş gerekçesi NBD
+yıl 1: net akış 250.000 bugünkü değer 185.185 kümülatif -1.550.000
+yıl 2: net akış 650.000 bugünkü değer 356.653 kümülatif -900.000
+yıl 3: net akış 850.000 bugünkü değer 345.476 kümülatif -50.000
+yıl 4: net akış 850.000 bugünkü değer 255.908 kümülatif 800.000
+yıl 5: net akış 850.000 bugünkü değer 189.561 kümülatif 1.650.000
+NBD -467.217 geri dönüş yıl 3,1
+5 yıl net fayda 3.450.000 basit getiri %91,7
+fayda %30 düşük NBD -1.033.549
+== kb-ea-4-1 el değiştirme
+6 el değiştirme bekleme saat 18,0 3 el değiştirme 9,0
+dokunma süresi 40 dk oranı 18 saatte %3,6
+== kb-ea-4-2 izleme medyan
+önce medyan 5.0 ort 5,7 sonra medyan 2.0 ort 2,0
+5 günü aşan önce 5 /12 sonra 0
+== kb-ea-4-3 BPMN geçit
+limit aşan 180 onaylanan 108 reddedilen 72 doğrudan 820 sevk edilen toplam 928
+== kb-ea-4-6 Little
+WIP 200
+akış verimliliği %0,97
+WIP 100 ise süre gün 1,25
+8 saatlik iş günü bazında akış verim (2,5 iş günü) %2,9
+vaka başı personel maliyeti (4 kişi, 52.000 TL/ay, 22 gün, 80 vaka/gün) 118,18
+== kb-ea-4-7 süreç madenciliği (sqlite)
+select varyant, count(*) vaka_sayisi from (
+  select vaka, group_concat(aktivite,' > ') varyant from (select * from olay order by vaka, zaman) group by vaka)
+group by varyant order by vaka_sayisi desc;
+('Sipariş > Onay > Sevk > Fatura', 3)
+('Sipariş > Sevk > Fatura > Fatura', 1)
+('Sipariş > Sevk > Fatura', 1)
+select vaka, round((julianday(max(zaman))-julianday(min(zaman)))*24,1) saat from olay group by vaka order by saat desc;
+('S5', 70.5)
+('S3', 46.3)
+('S1', 23.2)
+('S4', 22.1)
+('S2', 6.1)
+== kb-ea-4-9 onay matrisi
+şef 420 müdür 150 direktör 30
+eskiden direktöre giden 600
+ort bekleme saat 26 -> 4.5 azalış %-82,7
+== kb-ea-5-4 portföy TIME
+Eski ön muhasebe 2 2 Kaldır (Eliminate)
+ERP 4 4 Yatırım yap (Invest)
+Excel prim tablosu 4 1 Taşı (Migrate)
+Depo barkod uygulaması 2 4 Koru/izle (Tolerate)
+Mobil sipariş (eski) 3 2 Taşı (Migrate)

@@ -1,0 +1,46 @@
+== kb-ea-17-4 tedarikçi puanlama
+A 3,60
+B 3,65
+C 3,55
+huni 9 -> 5 -> 3 -> 2
+== kb-ea-18-3 sapma
+süre sapması %62,5 bütçe sapması %40,0
+== kb-ea-18-4 canlı geçiş sonrası düşüş
+hafta 1 260 %-35,0
+hafta 2 300 %-25,0
+hafta 4 360 %-10,0
+hafta 8 410 %2,5
+== kb-ea-18-5 aşama süreleri
+Hazırlık 3 %12,0
+Keşif (standarda uyum) 6 %24,0
+Gerçekleştirme 12 %48,0
+Canlıya geçiş 4 %16,0
+toplam hafta 25
+== kb-ea-18-6 açılış bakiyesi mutabakatı (sqlite)
+SQL: select coalesce(e.cari,y.cari) cari, e.bakiye_kurus eski, y.bakiye_kurus yeni,  coalesce(y.bakiye_kurus,0)-coalesce(e.bakiye_kurus,0) fark  from eski e left join yeni y on e.cari=y.cari  union all select y.cari,null,y.bakiye_kurus,y.bakiye_kurus from yeni y where y.cari not in (select cari from eski)
+C003 eski 2.300,00 yeni 2.030,00 fark -270,00
+C004 eski 990,00 yeni 0,00 fark -990,00
+C006 eski 0,00 yeni 150,00 fark 150,00
+toplam eski 28.366,25 yeni 27.256,25 fark -1.110,00
+== kb-ea-18-7 eğitim
+anahtar kullanıcı (10 kişiye 1) 9 eğitim saati 6 saat 510
+== kb-ea-19-1 kazanılmış değer
+PV 600.000 EV 480.000 AC 560.000 CPI 0,86 SPI 0,80 EAC 1.400.000
+== kb-ea-19-3 AMS sözleşmesi
+paket 160.000 ek 36.000 toplam 196.000
+ek saatlerin payı %15,8
+== kb-ea-20-1 tekrarlı giriş
+üç ayrı giriş 1200 tek giriş 400 azalma %66,7
+== kb-ea-20-3 üçlü eşleştirme
+fark adet 20 tutar 840,00 fatura 42.000,00 mal kabul 41.160,00
+== kb-ea-20-4 kapanış
+kapanış 12 -> 5 iş günü, kısalma %58,3
+== kb-ea-20-5 hareketli ortalama
+ortalama 21,50 stok değeri 17.200,00
+200 çıkış değeri 4.300,00 kalan 600 12.900,00
+standart maliyetle fiyat farkı 900,00
+== kb-ea-20-6 MRP
+brüt 2000 net 1000 sipariş 1000 ; teslim 10. hafta, temin süresi 2 hafta -> sipariş 8. hafta
+== kb-ea-18-5 boşluk sınıflandırma
+toplam boşluk 22 {'süreç değişikliği': 14, 'yapılandırma/küçük geliştirme': 8}
+== kb-ea-18-3 kapsam artışı: gerçekleştirme aşamasında gelen yeni rapor/ekran isteği 31

@@ -1,0 +1,56 @@
+== kb-fmcg-1-1-margin-stack ==
+40 koli=480 adet brüt kâr 1.963,20 TL, teslimat sonrası 1.613,20 TL
+10 koli=120 adet brüt kâr 490,80 TL, teslimat sonrası 140,80 TL
+oran 11,5
+başabaş koli (teslimat maliyetini karşılayan): 7,13
+entegre P 30,00 q 400.0 kâr 8.000,00
+ayrı w 30,00 P 40,00 q 200.0 perakendeci 2.000,00 üretici 4.000,00 toplam 6.000,00
+== kb-fmcg-1-2-scale-and-concentration ==
+Q=1.000.000 birim maliyet 30,00
+Q=2.000.000 birim maliyet 24,00
+Q=4.000.000 birim maliyet 21,00
+toplam 100 CR4 75 HHI 1788
+1 ve 3 birleşirse HHI 2688 artış 900
+== kb-fmcg-1-3-channel-actors ==
+doğrudan temas 1000 bayi üzerinden 205
+== kb-fmcg-1-4-channel-power-conflict ==
+zincire satış 40.000.000 katkı 12.000.000
+listeden çıkma, geri kazanım %0: kayıp katkı 12.000.000
+listeden çıkma, geri kazanım %40: kayıp katkı 7.200.000
+ek %2 iskonto maliyeti 800.000
+== kb-fmcg-1-5-turkish-fmcg-landscape ==
+30 gün -> 2026-12-02
+45 gün -> 2026-12-17
+60 gün -> 2027-01-01
+== kb-fmcg-2-1-fmcg-pnl ==
+brüt satış 100.000.000 
+ticari indirim/destek 18.000.000 %22,0
+net satış 82.000.000 %100,0
+SMM 47.560.000 %58,0
+brüt kâr 34.440.000 %42,0
+değişken satış-dağıtım 7.380.000 %9,0
+katkı 27.060.000 %33,0
+sabit gider 14.000.000 %17,1
+FVÖK 13.060.000 %15,9
+== kb-fmcg-2-2-gross-to-net ==
+liste 100,00 fatura altı 8,00 fatura 92,00 ciro primi 2,76 promosyon 2,50 listeleme/adet 1,50 cep net 85,24 G2N %14,76
+== kb-fmcg-2-3-contribution-breakeven ==
+KM 9,00 KM oranı %30,00 başabaş 50.000 ciro 1.500.000
+60.000 adet kâr 90.000 FKD 6,00
++%10 hacim kâr 144.000 değişim %60,00
+%5 indirimde KM 7,50 aynı kâr için hacim 72.000 artış %20,00
+== kb-fmcg-2-4-roi-roce-npv ==
+yıllık nakit 12.600 geri ödeme yıl 1,98 NBD 2.972
+10 koli: nakit 5.400 geri ödeme 4,63 NBD -13.012
+basit ROI 5 yıl %152,00
+ROCE %20,00
+== kb-fmcg-2-6-price-volume-mix-variance ==
+bütçe katkı 280.000 gerçek 288.000 fark 8.000
+ort birim katkı 14,00 hacim 28.000 karma -36.000 fiyat 16.000 maliyet -0 toplam 8.000
+== kb-fmcg-3-1-consumer-decisions ==
+rafta bulamayan 80.0 rakibe geçen 32.0
+== kb-fmcg-3-2-repeat-buying-patterns ==
+A alıcı 4000 alım 12.000
+B alıcı 1000 alım 2.400
+B +%20 penetrasyon 2.880 B +%20 sıklık 2.880
+pazar payı A %83,3

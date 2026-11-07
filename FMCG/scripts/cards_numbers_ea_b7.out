@@ -1,0 +1,20 @@
+30-1 toplama dogrulugu % 99,2
+30-1 zamaninda sevk % 94,0
+30-1 saat basina satir 15,6
+30-2 satir basi dk once/sonra 2.0 1.4 tasarruf % 30,0
+30-2 gunluk 3000 satir saat tasarrufu 30,0
+30-3 lokasyon dogrulugu % 97,0
+30-4 parti palet nokta 1 36 48
+31-1 100km yakit L 28,0
+31-1 rolanti saat 180 x 2 L/saat = 360 L
+31-3 km once/sonra 180 150 azalma % 16,7
+32-1 A P Q OEE % 87,5 90,0 97,9 77,1
+32-2 hammadde partisi 1 -> uretim partisi 3 -> sevk 14 musteri
+32-4 MTBF saat 500
+32-4 MTTR saat 3,0
+33-1 devir orani % 12,0
+33-2 kesinti1 7.500,00 matrah 42.500,00 vergi 6.375,00 net 36.125,00
+33-3 gerceklesme % 108,0 prim 21.600,00
+34-1 teklifler [100, 96, 98] en dusuk 96
+34-1 tedarikci zamaninda % 92,0
+35-1 yillik belge 60.000 10 yilda 600.000

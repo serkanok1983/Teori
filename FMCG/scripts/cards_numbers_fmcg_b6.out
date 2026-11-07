@@ -1,0 +1,60 @@
+== 10-1 müşteri kâr-zarar
+liste 20.000.000
+fatura 18.000.000
+ciro primi 720.000
+netnet 16.080.000
+smm 9.000.000
+brüt 7.080.000
+lojistik 482.400
+kam 600.000
+vade maliyeti 1.183.562
+müşteri katkısı 4.814.038
+katkı/liste % 24,1 katkı/netnet % 29,9
+== 10-2 fiyat şelalesi (birim 100 TL liste)
+fatura 92,00 ciro primi 3,68 promosyon 2,76 netnet 85,56 vade 6,05 cep 79,51
+toplam fark % 20,49
+vade 60->90 ek maliyet 3,02
+== 10-4 koşullu prim
+koşulsuz +2 puan maliyet 360.000 büyüme 1.440.000 ek katkı 432.000 koşullu prim maliyeti 388.800 net 43.200
+büyüme %5 ise hedef tutmaz, prim 0; ek katkı 270.000
+başabaş büyüme % 7,1
+== 10-6 yeni ürün kanibalizasyon
+yeni ürün aylık satış 40.000 kanibalizasyon %60 24.000 net kategori artışı 16.000
+kategori 5.000.000 içinde büyüme % 0,32
+== 10-7 ortak iş planı
+dağıtım 540.000
+promosyon 360.000
+yeni ürün 450.000
+toplam 1.350.000 % 7,5 katkı %30 405.000 yatırım 200.000 net 205.000
+== 11-1 nakit dönüşüm
+NDS 65 günlük satış 328.767 bağlı sermaye (satış bazlı yaklaşık) 21.369.863
+stok 45->35 gün serbest kalan (satış bazlı) 3.287.671
+== 11-2 tahmin
+MAPE % 9,3 bias toplam 0 WAPE % 9,2
+naif (geçen hafta) MAPE % (5 hafta) 21,5
+aynı 5 haftada tahmin MAPE % 9,2
+== 11-3 EOQ
+EOQ 536,7
+Q 200 sipariş 36.000 tutma 5.000 toplam 41.000
+Q 537 sipariş 13.408 tutma 13.425 toplam 26.833
+Q 1000 sipariş 7.200 tutma 25.000 toplam 32.200
+Q 2000 sipariş 3.600 tutma 50.000 toplam 53.600
+günlük 40 ROP (güvenlik stoku hariç) 200 ss 44 ile 244
+== 11-4 güvenlik stoku
+sigma_L 26,8
+90 1.282 34,4
+95 1.645 44,1
+98 2.054 55,1
+99 2.326 62,4
+99.9 3.09 82,9
+tedarik süresi 5->10 gün, %95 62,4
+== 11-5 kamçı etkisi simülasyonu
+tüketici ort 100,0 std 10,1 oran 1,0
+perakendeci ort 99,8 std 19,2 oran 1,9
+dağıtıcı ort 99,4 std 41,1 oran 4,1
+fabrika ort 105,4 std 83,2 oran 8,2
+== 11-6 S&OP
+açık 10.000 kayıp katkı 400.000 fazla mesai maliyeti 90.000 kurtarılan katkı 240.000 net 150.000 kalan açık 4.000 kalan kayıp 160.000
+== 11-7 ağ
+1 merkez depo 6.000.000 nakliye 14.000.000 güvenlik stoku 1.000.000 taşıma 300.000 toplam 20.300.000
+2 bölge depo 9.000.000 nakliye 10.000.000 güvenlik stoku 1.414.214 taşıma 424.264 toplam 19.424.264

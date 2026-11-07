@@ -1,0 +1,443 @@
+WARN  cards/bayi-yonetimi/kb-fmcg-12-7-case-distributor-turnaround.md: doğrulanmamış kaynak: Marketing Channels
+OK   cards/bayi-yonetimi/kb-fmcg-12-7-case-distributor-turnaround.md (526 kelime, ~3 dk)
+WARN  cards/bayi-yonetimi/kb-fmcg-7-1-distributor-pnl.md: doğrulanmamış kaynak: Marketing Channels
+OK   cards/bayi-yonetimi/kb-fmcg-7-1-distributor-pnl.md (494 kelime, ~2 dk)
+WARN  cards/bayi-yonetimi/kb-fmcg-7-2-distributor-roi.md: doğrulanmamış kaynak: Principles of Corporate Finance
+WARN  cards/bayi-yonetimi/kb-fmcg-7-2-distributor-roi.md: doğrulanmamış kaynak: Marketing Channels
+OK   cards/bayi-yonetimi/kb-fmcg-7-2-distributor-roi.md (517 kelime, ~3 dk)
+WARN  cards/bayi-yonetimi/kb-fmcg-7-3-credit-collections-dso.md: doğrulanmamış kaynak: Principles of Corporate Finance
+OK   cards/bayi-yonetimi/kb-fmcg-7-3-credit-collections-dso.md (520 kelime, ~3 dk)
+WARN  cards/bayi-yonetimi/kb-fmcg-7-4-distributor-selection-kpis.md: doğrulanmamış kaynak: Marketing Channels
+OK   cards/bayi-yonetimi/kb-fmcg-7-4-distributor-selection-kpis.md (491 kelime, ~2 dk)
+WARN  cards/bayi-yonetimi/kb-fmcg-7-5-distributor-development.md: doğrulanmamış kaynak: Marketing Channels
+OK   cards/bayi-yonetimi/kb-fmcg-7-5-distributor-development.md (479 kelime, ~2 dk)
+OK   cards/bt-yonetisimi-ve-guvenlik/kb-ea-14-4-backup-disaster-recovery.md (570 kelime, ~3 dk)
+OK   cards/bt-yonetisimi-ve-guvenlik/kb-ea-15-2-user-roles-permissions.md (568 kelime, ~3 dk)
+OK   cards/bt-yonetisimi-ve-guvenlik/kb-ea-15-5-kvkk-basics.md (503 kelime, ~3 dk)
+OK   cards/bt-yonetisimi-ve-guvenlik/kb-ea-16-5-cloud-cost-data-residency.md (511 kelime, ~3 dk)
+OK   cards/bt-yonetisimi-ve-guvenlik/kb-ea-35-1-document-archive-retention.md (510 kelime, ~3 dk)
+WARN  cards/bt-yonetisimi-ve-guvenlik/kb-ea-6-1-it-governance-decision-rights.md: doğrulanmamış kaynak: IT Governance: How Top Performers Manage IT Decision Rights for Superior Results
+OK   cards/bt-yonetisimi-ve-guvenlik/kb-ea-6-1-it-governance-decision-rights.md (565 kelime, ~3 dk)
+OK   cards/bt-yonetisimi-ve-guvenlik/kb-ea-6-2-it-service-sla.md (549 kelime, ~3 dk)
+WARN  cards/bt-yonetisimi-ve-guvenlik/kb-ea-6-3-information-security-basics.md: doğrulanmamış kaynak: ISO/IEC 27001:2022 Information security management systems — Requirements
+OK   cards/bt-yonetisimi-ve-guvenlik/kb-ea-6-3-information-security-basics.md (556 kelime, ~3 dk)
+WARN  cards/bt-yonetisimi-ve-guvenlik/kb-ea-6-4-internal-controls-sod.md: doğrulanmamış kaynak: Internal Control — Integrated Framework (2013)
+OK   cards/bt-yonetisimi-ve-guvenlik/kb-ea-6-4-internal-controls-sod.md (470 kelime, ~2 dk)
+WARN  cards/dagitim-modeli/kb-fmcg-6-1-rtm-channels-formats.md: doğrulanmamış kaynak: Marketing Channels
+OK   cards/dagitim-modeli/kb-fmcg-6-1-rtm-channels-formats.md (511 kelime, ~3 dk)
+OK   cards/dagitim-modeli/kb-fmcg-6-2-outlet-universe-segmentation.md (524 kelime, ~3 dk)
+WARN  cards/dagitim-modeli/kb-fmcg-6-3-cost-to-serve.md: doğrulanmamış kaynak: Cost & Effect: Using Integrated Cost Systems to Drive Profitability and Performance
+OK   cards/dagitim-modeli/kb-fmcg-6-3-cost-to-serve.md (492 kelime, ~2 dk)
+WARN  cards/dagitim-modeli/kb-fmcg-6-4-direct-vs-indirect.md: doğrulanmamış kaynak: Marketing Channels
+WARN  cards/dagitim-modeli/kb-fmcg-6-4-direct-vs-indirect.md: doğrulanmamış kaynak: The Economic Institutions of Capitalism
+OK   cards/dagitim-modeli/kb-fmcg-6-4-direct-vs-indirect.md (544 kelime, ~3 dk)
+WARN  cards/dagitim-modeli/kb-fmcg-6-5-wholesale-cash-carry.md: doğrulanmamış kaynak: Marketing Channels
+OK   cards/dagitim-modeli/kb-fmcg-6-5-wholesale-cash-carry.md (491 kelime, ~2 dk)
+WARN  cards/dagitim-modeli/kb-fmcg-6-6-horeca.md: doğrulanmamış kaynak: Marketing Channels
+OK   cards/dagitim-modeli/kb-fmcg-6-6-horeca.md (494 kelime, ~2 dk)
+WARN  cards/dagitim-modeli/kb-fmcg-6-7-e-grocery-quick-commerce.md: doğrulanmamış kaynak: Marketing Channels
+OK   cards/dagitim-modeli/kb-fmcg-6-7-e-grocery-quick-commerce.md (491 kelime, ~2 dk)
+WARN  cards/dagitim-modeli/kb-fmcg-6-8-rtm-design-case.md: doğrulanmamış kaynak: Marketing Channels
+WARN  cards/dagitim-modeli/kb-fmcg-6-8-rtm-design-case.md: doğrulanmamış kaynak: The Economic Institutions of Capitalism
+OK   cards/dagitim-modeli/kb-fmcg-6-8-rtm-design-case.md (459 kelime, ~2 dk)
+WARN  cards/e-belge-ve-odeme/kb-ea-24-2-bank-statement-integration.md: doğrulanmamış kaynak: ISO 20022 Financial Services Messaging
+OK   cards/e-belge-ve-odeme/kb-ea-24-2-bank-statement-integration.md (508 kelime, ~3 dk)
+WARN  cards/e-belge-ve-odeme/kb-ea-24-3-credit-limits-collections-systems.md: doğrulanmamış kaynak: Integrated Business Processes with ERP Systems
+OK   cards/e-belge-ve-odeme/kb-ea-24-3-credit-limits-collections-systems.md (520 kelime, ~3 dk)
+WARN  cards/e-belge-ve-odeme/kb-ea-28-3-pos-okc.md: doğrulanmamış kaynak: Ödeme Kaydedici Cihazlar
+OK   cards/e-belge-ve-odeme/kb-ea-28-3-pos-okc.md (511 kelime, ~3 dk)
+OK   cards/e-belge-ve-odeme/kb-ea-28-4-card-virtual-pos.md (480 kelime, ~2 dk)
+WARN  cards/e-belge-ve-odeme/kb-ea-35-2-e-signature-kep-seal.md: doğrulanmamış kaynak: Gelir İdaresi Başkanlığı
+OK   cards/e-belge-ve-odeme/kb-ea-35-2-e-signature-kep-seal.md (537 kelime, ~3 dk)
+WARN  cards/e-belge-ve-odeme/kb-ea-37-1-e-document-map.md: doğrulanmamış kaynak: GİB e-Belge portalı
+OK   cards/e-belge-ve-odeme/kb-ea-37-1-e-document-map.md (546 kelime, ~3 dk)
+WARN  cards/e-belge-ve-odeme/kb-ea-37-2-e-fatura-scenarios.md: doğrulanmamış kaynak: e-Fatura teknik kılavuzları
+OK   cards/e-belge-ve-odeme/kb-ea-37-2-e-fatura-scenarios.md (479 kelime, ~2 dk)
+WARN  cards/e-belge-ve-odeme/kb-ea-37-2-e-irsaliye-practice.md: doğrulanmamış kaynak: e-İrsaliye kılavuzları
+OK   cards/e-belge-ve-odeme/kb-ea-37-2-e-irsaliye-practice.md (457 kelime, ~2 dk)
+WARN  cards/e-belge-ve-odeme/kb-ea-37-3-e-document-integration-routes.md: doğrulanmamış kaynak: Özel entegratör listesi
+OK   cards/e-belge-ve-odeme/kb-ea-37-3-e-document-integration-routes.md (484 kelime, ~2 dk)
+WARN  cards/e-belge-ve-odeme/kb-ea-37-4-e-defter-e-arsiv.md: doğrulanmamış kaynak: e-Defter ve e-Arşiv duyuruları
+OK   cards/e-belge-ve-odeme/kb-ea-37-4-e-defter-e-arsiv.md (488 kelime, ~2 dk)
+WARN  cards/e-belge-ve-odeme/kb-ea-38-1-payment-systems-tr.md: doğrulanmamış kaynak: Ödeme sistemleri
+OK   cards/e-belge-ve-odeme/kb-ea-38-1-payment-systems-tr.md (464 kelime, ~2 dk)
+OK   cards/e-belge-ve-odeme/kb-ea-38-3-findeks-credit-bureau.md (469 kelime, ~2 dk)
+OK   cards/ekonomi-temelleri/kb-eco-1-1-opportunity-cost-sunk-cost.md (624 kelime, ~3 dk)
+OK   cards/ekonomi-temelleri/kb-eco-1-3-supply-demand.md (553 kelime, ~3 dk)
+OK   cards/ekonomi-temelleri/kb-eco-1-5-price-controls-tax-incidence.md (523 kelime, ~3 dk)
+OK   cards/ekonomi-temelleri/kb-eco-12-1-adverse-selection-credit.md (529 kelime, ~3 dk)
+OK   cards/ekonomi-temelleri/kb-eco-12-3-principal-agent.md (535 kelime, ~3 dk)
+OK   cards/ekonomi-temelleri/kb-eco-13-1-heuristics-biases.md (535 kelime, ~3 dk)
+OK   cards/ekonomi-temelleri/kb-eco-2-5-growth-rates-and-logs.md (485 kelime, ~2 dk)
+OK   cards/ekonomi-temelleri/kb-eco-5-5-economies-of-scale-sunk-costs.md (532 kelime, ~3 dk)
+OK   cards/ekonomi-temelleri/kb-eco-6-4-price-discrimination.md (505 kelime, ~3 dk)
+OK   cards/ekonomi-temelleri/kb-eco-7-1-game-theory-for-managers.md (586 kelime, ~3 dk)
+OK   cards/ekonomi-temelleri/kb-eco-7-5-auctions-tenders.md (537 kelime, ~3 dk)
+OK   cards/ekonomi-temelleri/kb-eco-7-7-oligopoly-collusion.md (586 kelime, ~3 dk)
+OK   cards/ekonomi-temelleri/kb-eco-8-2-vertical-restraints.md (556 kelime, ~3 dk)
+OK   cards/ekonomi-temelleri/kb-eco-9-2-minimum-wage-labour-costs.md (526 kelime, ~3 dk)
+WARN  cards/entegrasyon/kb-ea-10-1-why-integration-is-hard.md: doğrulanmamış kaynak: Enterprise Integration Patterns
+OK   cards/entegrasyon/kb-ea-10-1-why-integration-is-hard.md (600 kelime, ~3 dk)
+WARN  cards/entegrasyon/kb-ea-11-4-edi-with-chains.md: doğrulanmamış kaynak: EANCOM (GS1)
+WARN  cards/entegrasyon/kb-ea-11-4-edi-with-chains.md: doğrulanmamış kaynak: Enterprise Integration Patterns
+OK   cards/entegrasyon/kb-ea-11-4-edi-with-chains.md (552 kelime, ~3 dk)
+WARN  cards/entegrasyon/kb-ea-11-6-apis-for-managers.md: doğrulanmamış kaynak: Enterprise Integration Patterns
+OK   cards/entegrasyon/kb-ea-11-6-apis-for-managers.md (544 kelime, ~3 dk)
+WARN  cards/entegrasyon/kb-ea-40-4-integrating-sfa-with-erp.md: doğrulanmamış kaynak: Enterprise Integration Patterns
+OK   cards/entegrasyon/kb-ea-40-4-integrating-sfa-with-erp.md (482 kelime, ~2 dk)
+WARN  cards/erp/kb-ea-20-1-what-erp-does.md: doğrulanmamış kaynak: Integrated Business Processes with ERP Systems
+OK   cards/erp/kb-ea-20-1-what-erp-does.md (573 kelime, ~3 dk)
+WARN  cards/erp/kb-ea-20-2-order-to-cash.md: doğrulanmamış kaynak: Integrated Business Processes with ERP Systems
+WARN  cards/erp/kb-ea-20-2-order-to-cash.md: doğrulanmamış kaynak: e-Belge (Gelir İdaresi Başkanlığı e-belge portalı)
+OK   cards/erp/kb-ea-20-2-order-to-cash.md (807 kelime, ~4 dk)
+WARN  cards/erp/kb-ea-20-3-procure-to-pay.md: doğrulanmamış kaynak: Integrated Business Processes with ERP Systems
+OK   cards/erp/kb-ea-20-3-procure-to-pay.md (544 kelime, ~3 dk)
+WARN  cards/erp/kb-ea-20-4-record-to-report-close.md: doğrulanmamış kaynak: Integrated Business Processes with ERP Systems
+OK   cards/erp/kb-ea-20-4-record-to-report-close.md (507 kelime, ~3 dk)
+WARN  cards/erp/kb-ea-20-5-inventory-in-erp.md: doğrulanmamış kaynak: Integrated Business Processes with ERP Systems
+OK   cards/erp/kb-ea-20-5-inventory-in-erp.md (520 kelime, ~3 dk)
+WARN  cards/erp/kb-ea-20-6-mrp-basics.md: doğrulanmamış kaynak: Orlicky's Material Requirements Planning
+WARN  cards/erp/kb-ea-20-6-mrp-basics.md: doğrulanmamış kaynak: Manufacturing Planning and Control for Supply Chain Management
+OK   cards/erp/kb-ea-20-6-mrp-basics.md (519 kelime, ~3 dk)
+OK   cards/erp/kb-ea-21-3-erp-market-turkey.md (501 kelime, ~3 dk)
+WARN  cards/erp/kb-ea-22-1-chart-of-accounts-tekduzen.md: doğrulanmamış kaynak: Integrated Business Processes with ERP Systems
+OK   cards/erp/kb-ea-22-1-chart-of-accounts-tekduzen.md (483 kelime, ~2 dk)
+OK   cards/erp/kb-ea-22-2-multi-currency-inflation-adjust-in-erp.md (452 kelime, ~2 dk)
+OK   cards/erp/kb-ea-22-3-consolidation-close-systems.md (516 kelime, ~3 dk)
+WARN  cards/finansal-analiz/kb-ea-24-1-treasury-cash-forecasting.md: doğrulanmamış kaynak: Integrated Business Processes with ERP Systems
+OK   cards/finansal-analiz/kb-ea-24-1-treasury-cash-forecasting.md (511 kelime, ~3 dk)
+OK   cards/finansal-analiz/kb-eco-36-4-ratios-profitability-leverage.md (532 kelime, ~3 dk)
+OK   cards/finansal-analiz/kb-eco-36-5-dupont.md (561 kelime, ~3 dk)
+OK   cards/finansal-analiz/kb-eco-36-6-cash-flow-vs-profit.md (541 kelime, ~3 dk)
+OK   cards/finansal-analiz/kb-eco-36-7-earnings-quality-red-flags.md (563 kelime, ~3 dk)
+OK   cards/finansal-analiz/kb-eco-37-3-customer-credit-analysis.md (532 kelime, ~3 dk)
+OK   cards/finansal-analiz/kb-eco-37-4-distress-signals-z-score.md (582 kelime, ~3 dk)
+OK   cards/finansal-analiz/kb-eco-38-1-distributor-financial-statements.md (564 kelime, ~3 dk)
+OK   cards/finansal-analiz/kb-eco-38-2-cash-conversion-cycle.md (683 kelime, ~3 dk)
+OK   cards/finansal-analiz/kb-eco-38-3-distributor-credit-risk-dbs.md (534 kelime, ~3 dk)
+OK   cards/finansal-analiz/kb-eco-55-1-case-distributor-credit-decision.md (558 kelime, ~3 dk)
+OK   cards/finansal-piyasalar-ve-risk/kb-eco-25-6-bond-types-treasury-instruments.md (496 kelime, ~2 dk)
+OK   cards/finansal-piyasalar-ve-risk/kb-eco-30-1-forwards-fx-hedging.md (585 kelime, ~3 dk)
+OK   cards/finansal-piyasalar-ve-risk/kb-eco-32-3-risk-management-stress-test.md (609 kelime, ~3 dk)
+OK   cards/finansal-piyasalar-ve-risk/kb-eco-4-2-risk-aversion-insurance.md (507 kelime, ~3 dk)
+OK   cards/finansal-piyasalar-ve-risk/kb-eco-50-3-working-with-banks.md (522 kelime, ~3 dk)
+OK   cards/finansal-piyasalar-ve-risk/kb-eco-52-1-business-insurance.md (497 kelime, ~2 dk)
+OK   cards/finansal-piyasalar-ve-risk/kb-eco-54-3-governance-sustainability-reporting.md (525 kelime, ~3 dk)
+OK   cards/finansal-tablolar/kb-eco-33-2-double-entry-basics.md (589 kelime, ~3 dk)
+OK   cards/finansal-tablolar/kb-eco-33-3-accruals-period-close.md (609 kelime, ~3 dk)
+OK   cards/finansal-tablolar/kb-eco-33-4-income-statement.md (574 kelime, ~3 dk)
+OK   cards/finansal-tablolar/kb-eco-33-5-balance-sheet.md (578 kelime, ~3 dk)
+OK   cards/finansal-tablolar/kb-eco-33-6-cash-flow-statement.md (563 kelime, ~3 dk)
+OK   cards/finansal-tablolar/kb-eco-33-7-reading-annual-report.md (555 kelime, ~3 dk)
+OK   cards/finansal-tablolar/kb-eco-34-1-inventory-valuation.md (585 kelime, ~3 dk)
+OK   cards/finansal-tablolar/kb-eco-34-2-receivables-doubtful-debts.md (580 kelime, ~3 dk)
+OK   cards/finansal-tablolar/kb-eco-34-3-fixed-assets-depreciation.md (569 kelime, ~3 dk)
+OK   cards/finansal-tablolar/kb-eco-34-5-leases-ifrs16.md (574 kelime, ~3 dk)
+OK   cards/finansal-tablolar/kb-eco-34-7-provisions-severance.md (618 kelime, ~3 dk)
+OK   cards/finansal-tablolar/kb-eco-34-8-fx-transactions.md (590 kelime, ~3 dk)
+OK   cards/finansal-tablolar/kb-eco-35-1-reporting-regimes-tr.md (604 kelime, ~3 dk)
+OK   cards/finansal-tablolar/kb-eco-35-2-inflation-accounting.md (502 kelime, ~3 dk)
+OK   cards/fiyatlama-ve-promosyon/kb-fmcg-5-1-price-elasticity.md (551 kelime, ~3 dk)
+WARN  cards/fiyatlama-ve-promosyon/kb-fmcg-5-3-price-pack-architecture.md: doğrulanmamış kaynak: Marketing Management
+OK   cards/fiyatlama-ve-promosyon/kb-fmcg-5-3-price-pack-architecture.md (513 kelime, ~3 dk)
+OK   cards/fiyatlama-ve-promosyon/kb-fmcg-5-4-promotion-economics.md (510 kelime, ~3 dk)
+OK   cards/fiyatlama-ve-promosyon/kb-fmcg-5-5-trade-spend-roi.md (537 kelime, ~3 dk)
+WARN  cards/fiyatlama-ve-promosyon/kb-fmcg-5-6-pricing-in-high-inflation.md: doğrulanmamış kaynak: Principles of Corporate Finance
+OK   cards/fiyatlama-ve-promosyon/kb-fmcg-5-6-pricing-in-high-inflation.md (535 kelime, ~3 dk)
+WARN  cards/fiyatlama-ve-promosyon/kb-fmcg-5-7-rgm-system.md: doğrulanmamış kaynak: Marketing Management
+OK   cards/fiyatlama-ve-promosyon/kb-fmcg-5-7-rgm-system.md (525 kelime, ~3 dk)
+WARN  cards/is-sistemleri-temelleri/kb-ea-1-1-what-is-an-enterprise-system.md: doğrulanmamış kaynak: Management Information Systems: Managing the Digital Firm
+WARN  cards/is-sistemleri-temelleri/kb-ea-1-1-what-is-an-enterprise-system.md: doğrulanmamış kaynak: Competitive Advantage: Creating and Sustaining Superior Performance
+OK   cards/is-sistemleri-temelleri/kb-ea-1-1-what-is-an-enterprise-system.md (556 kelime, ~3 dk)
+WARN  cards/is-sistemleri-temelleri/kb-ea-1-5-software-vendor-economics-lockin.md: doğrulanmamış kaynak: Information Rules: A Strategic Guide to the Network Economy
+WARN  cards/is-sistemleri-temelleri/kb-ea-1-5-software-vendor-economics-lockin.md: doğrulanmamış kaynak: The Business of Software
+OK   cards/is-sistemleri-temelleri/kb-ea-1-5-software-vendor-economics-lockin.md (535 kelime, ~3 dk)
+OK   cards/is-sistemleri-temelleri/kb-ea-16-1-cloud-saas-basics.md (557 kelime, ~3 dk)
+OK   cards/is-sistemleri-temelleri/kb-ea-2-2-user-adoption.md (513 kelime, ~3 dk)
+OK   cards/is-sistemleri-temelleri/kb-ea-3-2-it-plus-process-complementarity.md (568 kelime, ~3 dk)
+OK   cards/is-sistemleri-temelleri/kb-ea-33-1-hr-systems.md (472 kelime, ~2 dk)
+OK   cards/is-sistemleri-temelleri/kb-ea-41-1-case-distributor-app-landscape.md (500 kelime, ~2 dk)
+WARN  cards/is-sistemleri-temelleri/kb-ea-5-4-application-portfolio.md: doğrulanmamış kaynak: TOGAF Series Guides (The Open Group)
+OK   cards/is-sistemleri-temelleri/kb-ea-5-4-application-portfolio.md (618 kelime, ~3 dk)
+WARN  cards/is-sistemleri-temelleri/kb-ea-5-5-erp-core-vs-best-of-breed.md: doğrulanmamış kaynak: Enterprise Integration Patterns
+OK   cards/is-sistemleri-temelleri/kb-ea-5-5-erp-core-vs-best-of-breed.md (583 kelime, ~3 dk)
+OK   cards/kilit-musteri-ve-kategori/kb-fmcg-10-1-key-account-management.md (584 kelime, ~3 dk)
+OK   cards/kilit-musteri-ve-kategori/kb-fmcg-10-2-trade-terms.md (576 kelime, ~3 dk)
+WARN  cards/kilit-musteri-ve-kategori/kb-fmcg-10-4-negotiating-with-chains.md: doğrulanmamış kaynak: Getting to Yes: Negotiating Agreement Without Giving In
+OK   cards/kilit-musteri-ve-kategori/kb-fmcg-10-4-negotiating-with-chains.md (612 kelime, ~3 dk)
+OK   cards/kilit-musteri-ve-kategori/kb-fmcg-10-6-category-management.md (582 kelime, ~3 dk)
+OK   cards/kilit-musteri-ve-kategori/kb-fmcg-10-7-joint-business-planning.md (542 kelime, ~3 dk)
+OK   cards/kurumsal-finans/kb-eco-25-1-time-value-npv-irr.md (520 kelime, ~3 dk)
+OK   cards/kurumsal-finans/kb-eco-25-2-loans-real-vs-nominal.md (596 kelime, ~3 dk)
+OK   cards/kurumsal-finans/kb-eco-26-4-business-valuation-basics.md (598 kelime, ~3 dk)
+OK   cards/kurumsal-finans/kb-eco-31-1-capital-budgeting.md (574 kelime, ~3 dk)
+OK   cards/kurumsal-finans/kb-eco-31-10-scenario-sensitivity.md (545 kelime, ~3 dk)
+OK   cards/kurumsal-finans/kb-eco-31-2-cost-of-capital.md (612 kelime, ~3 dk)
+OK   cards/kurumsal-finans/kb-eco-31-4-debt-vs-equity.md (548 kelime, ~3 dk)
+OK   cards/kurumsal-finans/kb-eco-31-5-agency-governance-family-firm.md (503 kelime, ~3 dk)
+OK   cards/kurumsal-finans/kb-eco-31-8-mergers-acquisitions.md (580 kelime, ~3 dk)
+OK   cards/kurumsal-finans/kb-eco-31-9-three-statement-model.md (562 kelime, ~3 dk)
+OK   cards/kurumsal-finans/kb-eco-32-4-finance-in-high-inflation.md (579 kelime, ~3 dk)
+WARN  cards/liderlik-ve-degisim/kb-fmcg-12-1-leading-sales-orgs.md: doğrulanmamış kaynak: Sales Force Management
+OK   cards/liderlik-ve-degisim/kb-fmcg-12-1-leading-sales-orgs.md (610 kelime, ~3 dk)
+WARN  cards/liderlik-ve-degisim/kb-fmcg-12-2-change-digital-transformation.md: doğrulanmamış kaynak: Leading Change
+OK   cards/liderlik-ve-degisim/kb-fmcg-12-2-change-digital-transformation.md (467 kelime, ~2 dk)
+OK   cards/liderlik-ve-degisim/kb-fmcg-12-3-analytics-for-decisions.md (571 kelime, ~3 dk)
+OK   cards/liderlik-ve-degisim/kb-fmcg-12-4-sustainability-regulation.md (542 kelime, ~3 dk)
+OK   cards/liderlik-ve-degisim/kb-fmcg-12-5-ethics-compliance-trade.md (599 kelime, ~3 dk)
+WARN  cards/liderlik-ve-degisim/kb-fmcg-12-6-case-brand-growth-plan.md: doğrulanmamış kaynak: How Brands Grow: What Marketers Don't Know
+WARN  cards/liderlik-ve-degisim/kb-fmcg-12-6-case-brand-growth-plan.md: doğrulanmamış kaynak: How Brands Grow Part 2
+OK   cards/liderlik-ve-degisim/kb-fmcg-12-6-case-brand-growth-plan.md (610 kelime, ~3 dk)
+OK   cards/makroekonomi-ve-enflasyon/kb-eco-14-1-gdp-real-nominal.md (552 kelime, ~3 dk)
+OK   cards/makroekonomi-ve-enflasyon/kb-eco-14-2-inflation-measurement-tufe-ufe.md (515 kelime, ~3 dk)
+OK   cards/makroekonomi-ve-enflasyon/kb-eco-18-3-real-vs-nominal-interest-fisher.md (549 kelime, ~3 dk)
+OK   cards/makroekonomi-ve-enflasyon/kb-eco-19-3-supply-shocks-cost-inflation.md (484 kelime, ~2 dk)
+OK   cards/makroekonomi-ve-enflasyon/kb-eco-21-1-monetary-policy-tcmb.md (645 kelime, ~3 dk)
+OK   cards/makroekonomi-ve-enflasyon/kb-eco-22-1-exchange-rates-real-nominal.md (502 kelime, ~3 dk)
+OK   cards/makroekonomi-ve-enflasyon/kb-eco-23-2-currency-crises-business.md (497 kelime, ~2 dk)
+OK   cards/makroekonomi-ve-enflasyon/kb-eco-24-3-turkey-crises-lessons.md (587 kelime, ~3 dk)
+OK   cards/makroekonomi-ve-enflasyon/kb-eco-50-4-tcmb-policy-rate-credit.md (507 kelime, ~3 dk)
+WARN  cards/maliyet-ve-butce/kb-ea-23-1-budgeting-purposes-games.md: doğrulanmamış kaynak: Management Control Systems
+WARN  cards/maliyet-ve-butce/kb-ea-23-1-budgeting-purposes-games.md: doğrulanmamış kaynak: Beyond Budgeting: How Managers Can Break Free from the Annual Performance Trap
+OK   cards/maliyet-ve-butce/kb-ea-23-1-budgeting-purposes-games.md (525 kelime, ~3 dk)
+WARN  cards/maliyet-ve-butce/kb-ea-23-2-rolling-forecast-driver-based.md: doğrulanmamış kaynak: Beyond Budgeting: How Managers Can Break Free from the Annual Performance Trap
+OK   cards/maliyet-ve-butce/kb-ea-23-2-rolling-forecast-driver-based.md (525 kelime, ~3 dk)
+WARN  cards/maliyet-ve-butce/kb-ea-23-3-balanced-scorecard-okr.md: doğrulanmamış kaynak: The Balanced Scorecard: Translating Strategy into Action
+WARN  cards/maliyet-ve-butce/kb-ea-23-3-balanced-scorecard-okr.md: doğrulanmamış kaynak: Measure What Matters
+OK   cards/maliyet-ve-butce/kb-ea-23-3-balanced-scorecard-okr.md (517 kelime, ~3 dk)
+OK   cards/maliyet-ve-butce/kb-eco-39-2-product-costing.md (562 kelime, ~3 dk)
+OK   cards/maliyet-ve-butce/kb-eco-39-3-abc-customer-profitability.md (521 kelime, ~3 dk)
+OK   cards/maliyet-ve-butce/kb-eco-39-4-budgeting-standard-costs.md (495 kelime, ~2 dk)
+OK   cards/maliyet-ve-butce/kb-eco-39-5-relevant-costs-decisions.md (513 kelime, ~3 dk)
+OK   cards/perakende-uygulama/kb-fmcg-9-1-retailer-economics.md (580 kelime, ~3 dk)
+WARN  cards/perakende-uygulama/kb-fmcg-9-2-formats-private-label.md: doğrulanmamış kaynak: Private Label Strategy: How to Meet the Store Brand Challenge
+OK   cards/perakende-uygulama/kb-fmcg-9-2-formats-private-label.md (578 kelime, ~3 dk)
+OK   cards/perakende-uygulama/kb-fmcg-9-3-shelf-space-planogram.md (507 kelime, ~3 dk)
+OK   cards/perakende-uygulama/kb-fmcg-9-4-osa-out-of-stock.md (525 kelime, ~3 dk)
+OK   cards/perakende-uygulama/kb-fmcg-9-5-perfect-store.md (582 kelime, ~3 dk)
+OK   cards/perakende-uygulama/kb-fmcg-9-6-trade-marketing.md (513 kelime, ~3 dk)
+OK   cards/perakende-uygulama/kb-fmcg-9-7-retail-media.md (658 kelime, ~3 dk)
+WARN  cards/saha-satis-ekibi/kb-fmcg-8-1-selling-formats.md: doğrulanmamış kaynak: Building a Winning Sales Force
+OK   cards/saha-satis-ekibi/kb-fmcg-8-1-selling-formats.md (511 kelime, ~3 dk)
+OK   cards/saha-satis-ekibi/kb-fmcg-8-10-sfa-data-driven-selling.md (505 kelime, ~3 dk)
+WARN  cards/saha-satis-ekibi/kb-fmcg-8-12-salesperson-motivation.md: doğrulanmamış kaynak: Work and Motivation
+OK   cards/saha-satis-ekibi/kb-fmcg-8-12-salesperson-motivation.md (564 kelime, ~3 dk)
+WARN  cards/saha-satis-ekibi/kb-fmcg-8-13-sales-analytics.md: doğrulanmamış kaynak: Building a Winning Sales Force
+OK   cards/saha-satis-ekibi/kb-fmcg-8-13-sales-analytics.md (568 kelime, ~3 dk)
+WARN  cards/saha-satis-ekibi/kb-fmcg-8-2-structured-sales-call.md: doğrulanmamış kaynak: Sales Force Management
+OK   cards/saha-satis-ekibi/kb-fmcg-8-2-structured-sales-call.md (481 kelime, ~2 dk)
+OK   cards/saha-satis-ekibi/kb-fmcg-8-3-salesperson-performance-drivers.md (540 kelime, ~3 dk)
+WARN  cards/saha-satis-ekibi/kb-fmcg-8-4-sales-force-sizing.md: doğrulanmamış kaynak: Building a Winning Sales Force
+OK   cards/saha-satis-ekibi/kb-fmcg-8-4-sales-force-sizing.md (559 kelime, ~3 dk)
+WARN  cards/saha-satis-ekibi/kb-fmcg-8-5-territory-routing.md: doğrulanmamış kaynak: Building a Winning Sales Force
+OK   cards/saha-satis-ekibi/kb-fmcg-8-5-territory-routing.md (501 kelime, ~3 dk)
+WARN  cards/saha-satis-ekibi/kb-fmcg-8-6-sales-org-span-of-control.md: doğrulanmamış kaynak: Building a Winning Sales Force
+WARN  cards/saha-satis-ekibi/kb-fmcg-8-6-sales-org-span-of-control.md: doğrulanmamış kaynak: Sales Force Management
+OK   cards/saha-satis-ekibi/kb-fmcg-8-6-sales-org-span-of-control.md (503 kelime, ~3 dk)
+WARN  cards/saha-satis-ekibi/kb-fmcg-8-7-sales-kpi-design.md: doğrulanmamış kaynak: Sales Force Management
+WARN  cards/saha-satis-ekibi/kb-fmcg-8-7-sales-kpi-design.md: doğrulanmamış kaynak: Building a Winning Sales Force
+OK   cards/saha-satis-ekibi/kb-fmcg-8-7-sales-kpi-design.md (485 kelime, ~2 dk)
+OK   cards/saha-satis-ekibi/kb-fmcg-8-8-incentive-compensation.md (818 kelime, ~4 dk)
+WARN  cards/saha-satis-ekibi/kb-fmcg-8-9-coaching.md: doğrulanmamış kaynak: Building a Winning Sales Force
+OK   cards/saha-satis-ekibi/kb-fmcg-8-9-coaching.md (569 kelime, ~3 dk)
+OK   cards/saha-satis-ve-dms/kb-ea-25-1-crm-basics.md (521 kelime, ~3 dk)
+OK   cards/saha-satis-ve-dms/kb-ea-25-2-customer-lifetime-value.md (520 kelime, ~3 dk)
+OK   cards/saha-satis-ve-dms/kb-ea-25-4-consent-iys-marketing.md (484 kelime, ~2 dk)
+OK   cards/saha-satis-ve-dms/kb-ea-25-5-customer-service-cases.md (520 kelime, ~3 dk)
+OK   cards/saha-satis-ve-dms/kb-ea-26-1-retail-execution-sfa.md (516 kelime, ~3 dk)
+OK   cards/saha-satis-ve-dms/kb-ea-26-2-field-data-outlet-visit.md (491 kelime, ~2 dk)
+OK   cards/saha-satis-ve-dms/kb-ea-26-3-offline-mode-for-managers.md (482 kelime, ~2 dk)
+WARN  cards/saha-satis-ve-dms/kb-ea-26-5-van-sales-presales.md: doğrulanmamış kaynak: e-Belge portalı
+OK   cards/saha-satis-ve-dms/kb-ea-26-5-van-sales-presales.md (550 kelime, ~3 dk)
+OK   cards/saha-satis-ve-dms/kb-ea-26-6-dms-secondary-sales.md (507 kelime, ~3 dk)
+WARN  cards/saha-satis-ve-dms/kb-ea-27-1-pricing-engine-conditions.md: doğrulanmamış kaynak: Integrated Business Processes with ERP Systems
+OK   cards/saha-satis-ve-dms/kb-ea-27-1-pricing-engine-conditions.md (519 kelime, ~3 dk)
+OK   cards/saha-satis-ve-dms/kb-ea-27-2-tpm-promotion-settlement.md (477 kelime, ~2 dk)
+WARN  cards/saha-satis-ve-dms/kb-ea-28-1-order-management.md: doğrulanmamış kaynak: Integrated Business Processes with ERP Systems
+OK   cards/saha-satis-ve-dms/kb-ea-28-1-order-management.md (493 kelime, ~2 dk)
+OK   cards/saha-satis-ve-dms/kb-ea-28-2-b2b-ordering-portals.md (457 kelime, ~2 dk)
+WARN  cards/saha-satis-ve-dms/kb-ea-33-3-incentive-compensation-systems.md: doğrulanmamış kaynak: Building a Winning Sales Force
+OK   cards/saha-satis-ve-dms/kb-ea-33-3-incentive-compensation-systems.md (451 kelime, ~2 dk)
+WARN  cards/satis-teknikleri/kb-fmcg-13-11-objections-closing-upsell.md: doğrulanmamış kaynak: SPIN Selling
+OK   cards/satis-teknikleri/kb-fmcg-13-11-objections-closing-upsell.md (466 kelime, ~2 dk)
+OK   cards/satis-teknikleri/kb-fmcg-13-12-adaptive-selling.md (529 kelime, ~3 dk)
+OK   cards/satis-teknikleri/kb-fmcg-13-13-relationship-selling-trust.md (609 kelime, ~3 dk)
+WARN  cards/satis-teknikleri/kb-fmcg-13-14-negotiation-structure.md: doğrulanmamış kaynak: Getting to Yes: Negotiating Agreement Without Giving In
+WARN  cards/satis-teknikleri/kb-fmcg-13-14-negotiation-structure.md: doğrulanmamış kaynak: The Art and Science of Negotiation
+WARN  cards/satis-teknikleri/kb-fmcg-13-14-negotiation-structure.md: doğrulanmamış kaynak: The Mind and Heart of the Negotiator
+OK   cards/satis-teknikleri/kb-fmcg-13-14-negotiation-structure.md (553 kelime, ~3 dk)
+OK   cards/satis-teknikleri/kb-fmcg-13-16-sales-forecasting.md (512 kelime, ~3 dk)
+OK   cards/satis-teknikleri/kb-fmcg-13-17-turkish-trade-practice.md (587 kelime, ~3 dk)
+WARN  cards/satis-teknikleri/kb-fmcg-13-2-spin-solution-selling.md: doğrulanmamış kaynak: SPIN Selling
+WARN  cards/satis-teknikleri/kb-fmcg-13-2-spin-solution-selling.md: doğrulanmamış kaynak: Solution Selling
+OK   cards/satis-teknikleri/kb-fmcg-13-2-spin-solution-selling.md (523 kelime, ~3 dk)
+WARN  cards/satis-teknikleri/kb-fmcg-13-2-strategic-selling.md: doğrulanmamış kaynak: Strategic Selling
+OK   cards/satis-teknikleri/kb-fmcg-13-2-strategic-selling.md (508 kelime, ~3 dk)
+WARN  cards/satis-teknikleri/kb-fmcg-13-3-challenger-meddic-sandler.md: doğrulanmamış kaynak: The Challenger Sale
+WARN  cards/satis-teknikleri/kb-fmcg-13-3-challenger-meddic-sandler.md: doğrulanmamış kaynak: You Can't Teach a Kid to Ride a Bike at a Seminar
+OK   cards/satis-teknikleri/kb-fmcg-13-3-challenger-meddic-sandler.md (511 kelime, ~3 dk)
+OK   cards/satis-teknikleri/kb-fmcg-13-4-b2b-buying-behaviour.md (505 kelime, ~3 dk)
+OK   cards/satis-teknikleri/kb-fmcg-13-5-retail-buyer-decisions.md (485 kelime, ~2 dk)
+WARN  cards/satis-teknikleri/kb-fmcg-13-6-persuasion-science.md: doğrulanmamış kaynak: Influence: The Psychology of Persuasion
+WARN  cards/satis-teknikleri/kb-fmcg-13-6-persuasion-science.md: doğrulanmamış kaynak: Communication and Persuasion: Central and Peripheral Routes to Attitude Change
+OK   cards/satis-teknikleri/kb-fmcg-13-6-persuasion-science.md (504 kelime, ~3 dk)
+OK   cards/satis-teknikleri/kb-fmcg-13-7-behavioural-economics-selling.md (482 kelime, ~2 dk)
+OK   cards/satis-teknikleri/kb-fmcg-13-8-sales-funnel-math.md (507 kelime, ~3 dk)
+OK   cards/satis-teknikleri/kb-fmcg-13-9-prospecting-account-segmentation.md (562 kelime, ~3 dk)
+WARN  cards/sektor-ve-kanal/kb-fmcg-1-1-margin-stack.md: doğrulanmamış kaynak: Competitive Advantage: Creating and Sustaining Superior Performance
+OK   cards/sektor-ve-kanal/kb-fmcg-1-1-margin-stack.md (657 kelime, ~3 dk)
+WARN  cards/sektor-ve-kanal/kb-fmcg-1-1-margin-vs-markup.md: doğrulanmamış kaynak: Competitive Advantage: Creating and Sustaining Superior Performance
+OK   cards/sektor-ve-kanal/kb-fmcg-1-1-margin-vs-markup.md (763 kelime, ~4 dk)
+WARN  cards/sektor-ve-kanal/kb-fmcg-1-2-scale-and-concentration.md: doğrulanmamış kaynak: Sunk Costs and Market Structure
+OK   cards/sektor-ve-kanal/kb-fmcg-1-2-scale-and-concentration.md (637 kelime, ~3 dk)
+WARN  cards/sektor-ve-kanal/kb-fmcg-1-3-channel-actors.md: doğrulanmamış kaynak: Marketing Channels
+OK   cards/sektor-ve-kanal/kb-fmcg-1-3-channel-actors.md (559 kelime, ~3 dk)
+WARN  cards/sektor-ve-kanal/kb-fmcg-1-4-channel-power-conflict.md: doğrulanmamış kaynak: Marketing Channels
+OK   cards/sektor-ve-kanal/kb-fmcg-1-4-channel-power-conflict.md (572 kelime, ~3 dk)
+OK   cards/sektor-ve-kanal/kb-fmcg-1-5-turkish-fmcg-landscape.md (758 kelime, ~4 dk)
+WARN  cards/strateji-ve-portfoy/kb-fmcg-4-2-segmentation-positioning.md: doğrulanmamış kaynak: Marketing Management
+OK   cards/strateji-ve-portfoy/kb-fmcg-4-2-segmentation-positioning.md (527 kelime, ~3 dk)
+WARN  cards/strateji-ve-portfoy/kb-fmcg-4-3-competitive-strategy.md: doğrulanmamış kaynak: Competitive Strategy: Techniques for Analyzing Industries and Competitors
+WARN  cards/strateji-ve-portfoy/kb-fmcg-4-3-competitive-strategy.md: doğrulanmamış kaynak: Competitive Advantage: Creating and Sustaining Superior Performance
+OK   cards/strateji-ve-portfoy/kb-fmcg-4-3-competitive-strategy.md (532 kelime, ~3 dk)
+WARN  cards/strateji-ve-portfoy/kb-fmcg-4-4-portfolio-management.md: doğrulanmamış kaynak: Marketing Management
+OK   cards/strateji-ve-portfoy/kb-fmcg-4-4-portfolio-management.md (453 kelime, ~2 dk)
+OK   cards/strateji-ve-portfoy/kb-fmcg-4-5-stage-gate-innovation.md (545 kelime, ~3 dk)
+OK   cards/strateji-ve-portfoy/kb-fmcg-4-6-sku-rationalisation.md (494 kelime, ~2 dk)
+OK   cards/strateji-ve-portfoy/kb-fmcg-4-7-launch-forecasting.md (526 kelime, ~3 dk)
+WARN  cards/surec-yonetimi/kb-ea-4-1-what-is-a-process.md: doğrulanmamış kaynak: Reengineering Work: Don't Automate, Obliterate
+WARN  cards/surec-yonetimi/kb-ea-4-1-what-is-a-process.md: doğrulanmamış kaynak: Reengineering the Corporation
+WARN  cards/surec-yonetimi/kb-ea-4-1-what-is-a-process.md: doğrulanmamış kaynak: Process Innovation: Reengineering Work through Information Technology
+OK   cards/surec-yonetimi/kb-ea-4-1-what-is-a-process.md (473 kelime, ~2 dk)
+WARN  cards/surec-yonetimi/kb-ea-4-2-bpm-lifecycle.md: doğrulanmamış kaynak: Fundamentals of Business Process Management
+OK   cards/surec-yonetimi/kb-ea-4-2-bpm-lifecycle.md (510 kelime, ~3 dk)
+OK   cards/surec-yonetimi/kb-ea-4-3-process-maps-bpmn.md (528 kelime, ~3 dk)
+WARN  cards/surec-yonetimi/kb-ea-4-6-process-analysis-cycle-time.md: doğrulanmamış kaynak: Fundamentals of Business Process Management
+WARN  cards/surec-yonetimi/kb-ea-4-6-process-analysis-cycle-time.md: doğrulanmamış kaynak: Factory Physics
+OK   cards/surec-yonetimi/kb-ea-4-6-process-analysis-cycle-time.md (451 kelime, ~2 dk)
+WARN  cards/surec-yonetimi/kb-ea-4-7-process-mining.md: doğrulanmamış kaynak: Process Mining: Data Science in Action
+OK   cards/surec-yonetimi/kb-ea-4-7-process-mining.md (551 kelime, ~3 dk)
+WARN  cards/surec-yonetimi/kb-ea-4-9-workflow-approvals.md: doğrulanmamış kaynak: Business Process Management: Concepts, Languages, Architectures
+OK   cards/surec-yonetimi/kb-ea-4-9-workflow-approvals.md (514 kelime, ~3 dk)
+OK   cards/tedarik-ve-depo-sistemleri/kb-ea-29-2-demand-planning-systems.md (463 kelime, ~2 dk)
+WARN  cards/tedarik-ve-depo-sistemleri/kb-ea-29-3-drp-inventory-planning.md: doğrulanmamış kaynak: Orlicky's Material Requirements Planning
+OK   cards/tedarik-ve-depo-sistemleri/kb-ea-29-3-drp-inventory-planning.md (484 kelime, ~2 dk)
+WARN  cards/tedarik-ve-depo-sistemleri/kb-ea-30-1-warehouse-operations-kpis.md: doğrulanmamış kaynak: Warehouse Management
+OK   cards/tedarik-ve-depo-sistemleri/kb-ea-30-1-warehouse-operations-kpis.md (457 kelime, ~2 dk)
+WARN  cards/tedarik-ve-depo-sistemleri/kb-ea-30-2-slotting-picking.md: doğrulanmamış kaynak: Warehouse Management
+OK   cards/tedarik-ve-depo-sistemleri/kb-ea-30-2-slotting-picking.md (473 kelime, ~2 dk)
+WARN  cards/tedarik-ve-depo-sistemleri/kb-ea-30-3-wms-what-it-does.md: doğrulanmamış kaynak: Warehouse Management
+OK   cards/tedarik-ve-depo-sistemleri/kb-ea-30-3-wms-what-it-does.md (489 kelime, ~2 dk)
+WARN  cards/tedarik-ve-depo-sistemleri/kb-ea-30-4-barcodes-traceability.md: doğrulanmamış kaynak: GS1 Türkiye
+OK   cards/tedarik-ve-depo-sistemleri/kb-ea-30-4-barcodes-traceability.md (477 kelime, ~2 dk)
+WARN  cards/tedarik-ve-depo-sistemleri/kb-ea-31-1-tms-fleet-telematics.md: doğrulanmamış kaynak: Global Logistics and Supply Chain Management
+OK   cards/tedarik-ve-depo-sistemleri/kb-ea-31-1-tms-fleet-telematics.md (456 kelime, ~2 dk)
+WARN  cards/tedarik-ve-depo-sistemleri/kb-ea-31-3-route-planning-sales-vs-delivery.md: doğrulanmamış kaynak: Global Logistics and Supply Chain Management
+OK   cards/tedarik-ve-depo-sistemleri/kb-ea-31-3-route-planning-sales-vs-delivery.md (464 kelime, ~2 dk)
+WARN  cards/tedarik-ve-depo-sistemleri/kb-ea-32-1-mes-oee.md: doğrulanmamış kaynak: Introduction to TPM: Total Productive Maintenance
+OK   cards/tedarik-ve-depo-sistemleri/kb-ea-32-1-mes-oee.md (481 kelime, ~2 dk)
+WARN  cards/tedarik-ve-depo-sistemleri/kb-ea-32-2-food-safety-traceability.md: doğrulanmamış kaynak: ISO 22000 Food safety management
+OK   cards/tedarik-ve-depo-sistemleri/kb-ea-32-2-food-safety-traceability.md (501 kelime, ~3 dk)
+WARN  cards/tedarik-ve-depo-sistemleri/kb-ea-32-4-asset-maintenance.md: doğrulanmamış kaynak: Introduction to TPM: Total Productive Maintenance
+OK   cards/tedarik-ve-depo-sistemleri/kb-ea-32-4-asset-maintenance.md (456 kelime, ~2 dk)
+WARN  cards/tedarik-ve-depo-sistemleri/kb-ea-34-1-purchasing-supplier-management.md: doğrulanmamış kaynak: Purchasing and Supply Chain Management
+WARN  cards/tedarik-ve-depo-sistemleri/kb-ea-34-1-purchasing-supplier-management.md: doğrulanmamış kaynak: Integrated Business Processes with ERP Systems
+OK   cards/tedarik-ve-depo-sistemleri/kb-ea-34-1-purchasing-supplier-management.md (463 kelime, ~2 dk)
+WARN  cards/tedarik-zinciri-ve-stok/kb-fmcg-11-1-supply-chain-basics.md: doğrulanmamış kaynak: Supply Chain Management: Strategy, Planning, and Operation
+OK   cards/tedarik-zinciri-ve-stok/kb-fmcg-11-1-supply-chain-basics.md (544 kelime, ~3 dk)
+WARN  cards/tedarik-zinciri-ve-stok/kb-fmcg-11-2-demand-forecasting.md: doğrulanmamış kaynak: Supply Chain Management: Strategy, Planning, and Operation
+OK   cards/tedarik-zinciri-ve-stok/kb-fmcg-11-2-demand-forecasting.md (499 kelime, ~2 dk)
+WARN  cards/tedarik-zinciri-ve-stok/kb-fmcg-11-3-eoq-reorder-point.md: doğrulanmamış kaynak: Supply Chain Management: Strategy, Planning, and Operation
+OK   cards/tedarik-zinciri-ve-stok/kb-fmcg-11-3-eoq-reorder-point.md (593 kelime, ~3 dk)
+WARN  cards/tedarik-zinciri-ve-stok/kb-fmcg-11-4-safety-stock.md: doğrulanmamış kaynak: Supply Chain Management: Strategy, Planning, and Operation
+OK   cards/tedarik-zinciri-ve-stok/kb-fmcg-11-4-safety-stock.md (543 kelime, ~3 dk)
+WARN  cards/tedarik-zinciri-ve-stok/kb-fmcg-11-5-bullwhip-effect.md: doğrulanmamış kaynak: Supply Chain Management: Strategy, Planning, and Operation
+OK   cards/tedarik-zinciri-ve-stok/kb-fmcg-11-5-bullwhip-effect.md (535 kelime, ~3 dk)
+WARN  cards/tedarik-zinciri-ve-stok/kb-fmcg-11-6-sop-ibp.md: doğrulanmamış kaynak: Supply Chain Management: Strategy, Planning, and Operation
+OK   cards/tedarik-zinciri-ve-stok/kb-fmcg-11-6-sop-ibp.md (539 kelime, ~3 dk)
+WARN  cards/tedarik-zinciri-ve-stok/kb-fmcg-11-7-warehouse-transport-network.md: doğrulanmamış kaynak: Supply Chain Management: Strategy, Planning, and Operation
+OK   cards/tedarik-zinciri-ve-stok/kb-fmcg-11-7-warehouse-transport-network.md (496 kelime, ~2 dk)
+WARN  cards/tedarik-zinciri-ve-stok/kb-fmcg-11-8-cold-chain.md: doğrulanmamış kaynak: Supply Chain Management: Strategy, Planning, and Operation
+OK   cards/tedarik-zinciri-ve-stok/kb-fmcg-11-8-cold-chain.md (600 kelime, ~3 dk)
+WARN  cards/tedarik-zinciri-ve-stok/kb-fmcg-11-9-vmi-cpfr.md: doğrulanmamış kaynak: Supply Chain Management: Strategy, Planning, and Operation
+OK   cards/tedarik-zinciri-ve-stok/kb-fmcg-11-9-vmi-cpfr.md (571 kelime, ~3 dk)
+WARN  cards/ticari-finans/kb-fmcg-2-1-fmcg-pnl.md: doğrulanmamış kaynak: Principles of Corporate Finance
+WARN  cards/ticari-finans/kb-fmcg-2-1-fmcg-pnl.md: doğrulanmamış kaynak: Cost & Effect: Using Integrated Cost Systems to Drive Profitability and Performance
+OK   cards/ticari-finans/kb-fmcg-2-1-fmcg-pnl.md (583 kelime, ~3 dk)
+WARN  cards/ticari-finans/kb-fmcg-2-2-gross-to-net.md: doğrulanmamış kaynak: Marketing Management
+OK   cards/ticari-finans/kb-fmcg-2-2-gross-to-net.md (527 kelime, ~3 dk)
+WARN  cards/ticari-finans/kb-fmcg-2-3-contribution-breakeven.md: doğrulanmamış kaynak: Principles of Corporate Finance
+WARN  cards/ticari-finans/kb-fmcg-2-3-contribution-breakeven.md: doğrulanmamış kaynak: Cost & Effect: Using Integrated Cost Systems to Drive Profitability and Performance
+OK   cards/ticari-finans/kb-fmcg-2-3-contribution-breakeven.md (540 kelime, ~3 dk)
+WARN  cards/ticari-finans/kb-fmcg-2-4-roi-roce-npv.md: doğrulanmamış kaynak: Principles of Corporate Finance
+OK   cards/ticari-finans/kb-fmcg-2-4-roi-roce-npv.md (587 kelime, ~3 dk)
+WARN  cards/ticari-finans/kb-fmcg-2-6-price-volume-mix-variance.md: doğrulanmamış kaynak: Cost & Effect: Using Integrated Cost Systems to Drive Profitability and Performance
+OK   cards/ticari-finans/kb-fmcg-2-6-price-volume-mix-variance.md (572 kelime, ~3 dk)
+OK   cards/tuketici-ve-marka/kb-fmcg-3-1-consumer-decisions.md (546 kelime, ~3 dk)
+WARN  cards/tuketici-ve-marka/kb-fmcg-3-2-repeat-buying-patterns.md: doğrulanmamış kaynak: Repeat-Buying: Facts, Theory and Applications
+WARN  cards/tuketici-ve-marka/kb-fmcg-3-2-repeat-buying-patterns.md: doğrulanmamış kaynak: How Brands Grow: What Marketers Don't Know
+OK   cards/tuketici-ve-marka/kb-fmcg-3-2-repeat-buying-patterns.md (594 kelime, ~3 dk)
+WARN  cards/tuketici-ve-marka/kb-fmcg-3-4-mental-physical-availability.md: doğrulanmamış kaynak: How Brands Grow: What Marketers Don't Know
+WARN  cards/tuketici-ve-marka/kb-fmcg-3-4-mental-physical-availability.md: doğrulanmamış kaynak: How Brands Grow Part 2
+OK   cards/tuketici-ve-marka/kb-fmcg-3-4-mental-physical-availability.md (526 kelime, ~3 dk)
+WARN  cards/tuketici-ve-marka/kb-fmcg-3-5-brand-equity.md: doğrulanmamış kaynak: Managing Brand Equity
+WARN  cards/tuketici-ve-marka/kb-fmcg-3-5-brand-equity.md: doğrulanmamış kaynak: The New Strategic Brand Management
+OK   cards/tuketici-ve-marka/kb-fmcg-3-5-brand-equity.md (511 kelime, ~3 dk)
+OK   cards/tuketici-ve-marka/kb-fmcg-3-7-shopper-path-to-purchase.md (532 kelime, ~3 dk)
+OK   cards/tuketici-ve-marka/kb-fmcg-3-8-market-research-toolkit.md (450 kelime, ~2 dk)
+WARN  cards/vergi-ve-mevzuat/kb-ea-33-2-payroll-basics.md: doğrulanmamış kaynak: Gelir İdaresi Başkanlığı
+OK   cards/vergi-ve-mevzuat/kb-ea-33-2-payroll-basics.md (477 kelime, ~2 dk)
+OK   cards/vergi-ve-mevzuat/kb-eco-40-4-environmental-taxes-cbam.md (582 kelime, ~3 dk)
+OK   cards/vergi-ve-mevzuat/kb-eco-42-1-tax-basics-average-marginal.md (522 kelime, ~3 dk)
+OK   cards/vergi-ve-mevzuat/kb-eco-42-8-informality-tax-compliance.md (560 kelime, ~3 dk)
+OK   cards/vergi-ve-mevzuat/kb-eco-43-1-turkish-tax-system-overview.md (694 kelime, ~3 dk)
+OK   cards/vergi-ve-mevzuat/kb-eco-43-2-income-tax-withholding.md (502 kelime, ~3 dk)
+OK   cards/vergi-ve-mevzuat/kb-eco-43-3-corporate-tax.md (549 kelime, ~3 dk)
+OK   cards/vergi-ve-mevzuat/kb-eco-43-4-kdv-vat.md (539 kelime, ~3 dk)
+OK   cards/vergi-ve-mevzuat/kb-eco-43-5-otv-stamp-duty.md (542 kelime, ~3 dk)
+OK   cards/vergi-ve-mevzuat/kb-eco-43-6-tax-procedure-inspection.md (524 kelime, ~3 dk)
+OK   cards/vergi-ve-mevzuat/kb-eco-44-3-sgk-employer-costs.md (614 kelime, ~3 dk)
+OK   cards/veri-ve-istatistik/kb-eco-47-1-descriptive-statistics.md (461 kelime, ~2 dk)
+OK   cards/veri-ve-istatistik/kb-eco-47-3-sampling-confidence.md (463 kelime, ~2 dk)
+OK   cards/veri-ve-istatistik/kb-eco-47-4-ab-testing-significance.md (504 kelime, ~3 dk)
+OK   cards/veri-ve-istatistik/kb-eco-47-5-correlation-regression-basics.md (472 kelime, ~2 dk)
+OK   cards/veri-ve-istatistik/kb-eco-48-7-test-vs-control-did.md (585 kelime, ~3 dk)
+OK   cards/veri-ve-istatistik/kb-eco-49-1-time-series-seasonality.md (485 kelime, ~2 dk)
+WARN  cards/veri-yonetimi/kb-ea-8-1-master-data-governance.md: doğrulanmamış kaynak: DAMA-DMBOK: Data Management Body of Knowledge (2nd ed.)
+OK   cards/veri-yonetimi/kb-ea-8-1-master-data-governance.md (541 kelime, ~3 dk)
+OK   cards/veri-yonetimi/kb-ea-8-2-data-quality-field.md (527 kelime, ~3 dk)
+WARN  cards/veri-yonetimi/kb-ea-8-3-mdm-matching-duplicates.md: doğrulanmamış kaynak: Master Data Management
+OK   cards/veri-yonetimi/kb-ea-8-3-mdm-matching-duplicates.md (546 kelime, ~3 dk)
+WARN  cards/veri-yonetimi/kb-ea-8-4-gs1-barcodes-pim.md: doğrulanmamış kaynak: GS1 General Specifications
+OK   cards/veri-yonetimi/kb-ea-8-4-gs1-barcodes-pim.md (572 kelime, ~3 dk)
+WARN  cards/veri-yonetimi/kb-ea-9-1-reporting-vs-transaction-systems.md: doğrulanmamış kaynak: Building the Data Warehouse
+WARN  cards/veri-yonetimi/kb-ea-9-1-reporting-vs-transaction-systems.md: doğrulanmamış kaynak: The Data Warehouse Toolkit
+OK   cards/veri-yonetimi/kb-ea-9-1-reporting-vs-transaction-systems.md (573 kelime, ~3 dk)
+WARN  cards/veri-yonetimi/kb-ea-9-2-sell-in-sell-out-reporting.md: doğrulanmamış kaynak: The Data Warehouse Toolkit
+OK   cards/veri-yonetimi/kb-ea-9-2-sell-in-sell-out-reporting.md (523 kelime, ~3 dk)
+OK   cards/veri-yonetimi/kb-ea-9-6-bi-dashboards-kpis.md (534 kelime, ~3 dk)
+OK   cards/yapay-zeka-ve-otomasyon/kb-ea-39-1-low-code.md (460 kelime, ~2 dk)
+OK   cards/yapay-zeka-ve-otomasyon/kb-ea-39-2-rpa.md (458 kelime, ~2 dk)
+OK   cards/yapay-zeka-ve-otomasyon/kb-ea-39-3-genai-at-work.md (459 kelime, ~2 dk)
+OK   cards/yapay-zeka-ve-otomasyon/kb-ea-39-4-ai-assistants-on-company-data.md (469 kelime, ~2 dk)
+OK   cards/yapay-zeka-ve-otomasyon/kb-ea-39-5-ml-forecast-recommendation.md (458 kelime, ~2 dk)
+OK   cards/yazilim-secimi-ve-proje/kb-ea-17-1-build-buy-configure.md (574 kelime, ~3 dk)
+OK   cards/yazilim-secimi-ve-proje/kb-ea-17-2-total-cost-of-ownership.md (550 kelime, ~3 dk)
+WARN  cards/yazilim-secimi-ve-proje/kb-ea-17-3-writing-requirements.md: doğrulanmamış kaynak: A Guide to the Business Analysis Body of Knowledge (BABOK Guide) v3
+OK   cards/yazilim-secimi-ve-proje/kb-ea-17-3-writing-requirements.md (493 kelime, ~2 dk)
+WARN  cards/yazilim-secimi-ve-proje/kb-ea-17-4-vendor-selection-rfp.md: doğrulanmamış kaynak: A Guide to the Business Analysis Body of Knowledge (BABOK Guide) v3
+OK   cards/yazilim-secimi-ve-proje/kb-ea-17-4-vendor-selection-rfp.md (517 kelime, ~3 dk)
+OK   cards/yazilim-secimi-ve-proje/kb-ea-18-3-why-erp-projects-fail.md (471 kelime, ~2 dk)
+OK   cards/yazilim-secimi-ve-proje/kb-ea-18-4-post-go-live-dip.md (537 kelime, ~3 dk)
+OK   cards/yazilim-secimi-ve-proje/kb-ea-18-5-implementation-methodology.md (569 kelime, ~3 dk)
+OK   cards/yazilim-secimi-ve-proje/kb-ea-18-6-data-migration-opening-balances.md (520 kelime, ~3 dk)
+WARN  cards/yazilim-secimi-ve-proje/kb-ea-18-7-change-management-training.md: doğrulanmamış kaynak: Leading Change: Why Transformation Efforts Fail
+OK   cards/yazilim-secimi-ve-proje/kb-ea-18-7-change-management-training.md (542 kelime, ~3 dk)
+WARN  cards/yazilim-secimi-ve-proje/kb-ea-19-1-project-management-basics.md: doğrulanmamış kaynak: A Guide to the Project Management Body of Knowledge (PMBOK Guide), 7. baskı
+OK   cards/yazilim-secimi-ve-proje/kb-ea-19-1-project-management-basics.md (551 kelime, ~3 dk)
+OK   cards/yazilim-secimi-ve-proje/kb-ea-19-3-working-with-it-partners.md (522 kelime, ~3 dk)
+OK   cards/yazilim-secimi-ve-proje/kb-ea-3-6-it-business-case.md (528 kelime, ~3 dk)
+WARN  cards/yazilim-secimi-ve-proje/kb-ea-41-5-cutover-plan.md: doğrulanmamış kaynak: Practical Data Migration
+OK   cards/yazilim-secimi-ve-proje/kb-ea-41-5-cutover-plan.md (479 kelime, ~2 dk)
+
+288 kart, 0 hata, 153 uyarı

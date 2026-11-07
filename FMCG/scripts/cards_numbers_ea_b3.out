@@ -1,0 +1,42 @@
+== kb-ea-10-1 birim eşleme hatası
+10 koli doğru adet 240 ; hatalı okunan adet 10 ; fark kat 24
+adet fiyatı 18,50 → doğru tutar 4.440,00 hatalı 185,00
+== kb-ea-11-4 EDI ile elle giriş karşılaştırması
+günlük elle giriş saati 7,5 ayda 165 saat
+ayda hatalı satır 99
+== kb-ea-37-1 belge karışımı
+e-fatura payı %69,4 e-arşiv 550 %30,6
+== kb-ea-11-6 API sayfalama
+çağrı 120 dakika (limit 600/dk) 0,20
+tek tek çekilirse çağrı 12000 dakika 20,0
+== kb-ea-14-4 RPO / RTO
+kaybedilen saat 17 yeniden girilecek sipariş (iş saatleri 08-16, 8 saat) 320
+15 dk RPO ile en fazla sipariş 10
+6 saat RTO, saatlik ciro 150.000 → risk altındaki ciro 900.000
+== kb-ea-15-2 rol tabanlı yetki
+kişi bazlı atama 4800 ; rol tabanlı: rol tanımı 9 x 40 = 360 + kullanıcı ataması 120
+== kb-ea-16-1 abonelik
+aylık 60.000 yıllık 720.000
+kullanıcı %25 artarsa yıllık 900.000
+== kb-ea-16-5 bulut sunucu çalışma saati
+7/24 saat 720 mesai 264 tasarruf %63,3
+saatlik 9,40 TL: 7/24 6.768,00 mesai 2.481,60
+== kb-ea-17-1 ağırlıklı puanlama
+Paket olduğu gibi 3,80
+Paket + ayar 3,85
+Özel yazılım 3,20
+== kb-ea-17-2 5 yıllık TSM
+Lisans/abonelik ilk 0 yıllık 540.000 5 yıl 2.700.000
+Uygulama hizmeti ilk 650.000 yıllık 0 5 yıl 650.000
+Veri taşıma ilk 120.000 yıllık 0 5 yıl 120.000
+Eğitim ilk 80.000 yıllık 20.000 5 yıl 180.000
+Entegrasyon bakımı ilk 150.000 yıllık 60.000 5 yıl 450.000
+İç personel zamanı ilk 300.000 yıllık 180.000 5 yıl 1.200.000
+Altyapı/destek ilk 0 yıllık 90.000 5 yıl 450.000
+5 yıl TSM 5.750.000 1. yıl 2.190.000 abonelik payı %47,0
+== kb-ea-17-3 MoSCoW
+Must 46 %32,9
+Should 52 %37,1
+Could 30 %21,4
+Won't 12 %8,6
+toplam 140
